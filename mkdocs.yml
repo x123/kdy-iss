@@ -1,0 +1,10 @@
+site_name: KDY International Sailing School Docs
+theme:
+  name: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+nav:
+  - KDY International Sailing School: index.md
+  - DS37 Manual: ds37.md
