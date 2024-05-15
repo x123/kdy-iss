@@ -5,6 +5,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - toc:
+      permalink: "#"
+      baselevel: 2
 nav:
   - KDY International Sailing School: index.md
   - DS37 Manual: ds37.md
