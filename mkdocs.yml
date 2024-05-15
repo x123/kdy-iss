@@ -1,6 +1,12 @@
 site_name: KDY International Sailing School Docs
+repo_url: https://github.com/x123/kdy-iss
 theme:
   name: material
+validation:
+  omitted_files: warn
+  absolute_links: warn  # Or 'relative_to_docs' - new in MkDocs 1.6
+  unrecognized_links: warn
+  anchors: warn  # New in MkDocs 1.6
 markdown_extensions:
   - admonition
   - pymdownx.details
