@@ -2,9 +2,9 @@
 ![Skovshoved Havn Facilities](img/skovshoved_facilities.png)
 
 ## Medical
-1. First-aid kit
-2. First-aid kit
-8. Heart starter (AED) - in harbourmaster's office on the corner.
+### 1. First-aid kit
+### 2. First-aid kit
+### 8. Heart starter (AED) - in harbourmaster's office on the corner.
 
 ## Facilities
 1. Restaurant & Club room
@@ -18,8 +18,6 @@
 9. Sailing equipment shop (Nordbjærgs)
 10. Access ramp (Speed boats)
 11. Guest ramp & jetty (Fair weather pick up)
-
-# Skovshoved Harbour - Medical
 
 # Departing Skovshoved
 TODO
