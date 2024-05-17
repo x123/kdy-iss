@@ -14,7 +14,7 @@
     * [ ] Water temperature
     * [ ] Exhaustion, unconciousness, and expected survival times from [the
       cold water survival times
-      table](safety.md#cold-water-survival-times)
+      table](kdy-safety.md#cold-water-survival-times)
 * [ ] Crew Safety Briefing
     * [ ] First mate
     * [ ] MOB and Recovery

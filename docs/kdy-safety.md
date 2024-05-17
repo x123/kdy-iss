@@ -9,21 +9,19 @@ over safety of property. If faced with any situation where either a person will
 come to harm OR property will be damaged, *always* prioritize the safety of
 persons. Things can be replaced, people can not.
 
-A common mistake that beginners make is to try to stop the boat from coming
-into contact with a piling or other vessel by using their feet, hands, or
-fingers. The sheer momentum of these vessels will surprise you and will result
-in injury, so use fenders instead of limbs.
+A common mistake that beginners make is to try to stop a boat from coming into
+contact with a piling or other vessel by using their feet, hands, or fingers.
+The sheer momentum of these vessels will surprise you and will result in
+injury, so use fenders instead of limbs.
 
 # Secure footing and staying onboard
 
-Staying onboard and preventing falls is critical on any yacht, and the DS37 is
-no different. Always follow _"one hand for the boat, one hand for yourself"_ as
-you move around on the yacht. Stay low, move methodically, and avoid rushing,
-running, or jumping. Being an older yacht the non-skid on the deck is not as
-aggressive and "grippy" as on a newer vessel, so take care. Quality sailing
-boots or shoes that provide adequate grip are important, but need not
-expensive. Avoid stepping on lines or sails, as both are common causes of slips
-or falls. Bad enough if you fall and hurt yourself, but worse to fall
+Staying onboard and preventing falls is critical on any yacht. Always follow
+_"one hand for the boat, one hand for yourself"_ as you move around on the
+yacht. Stay low, move methodically, and avoid rushing, running, or jumping.
+Quality sailing boots or shoes that provide adequate grip are important, but
+need not expensive. Avoid stepping on lines or sails, as both are common causes
+of slips or falls. Bad enough if you fall and hurt yourself, but worse to fall
 overboard.
 
 !!! note
@@ -53,7 +51,8 @@ overboard.
     assistance"*.
 
     __A man overboard at sea in anything but the calmest conditions or warmest
-    waters is *almost always* an urgency or distress situation.__
+    waters is *almost always* at least an urgency, and quite possibly a distress
+    situation.__
 
 # Cold Water Survival Times
 Loss of dexterity and the ability to manipulate fingers, exhaustion or
@@ -77,38 +76,10 @@ times.
 | 21 to 26.5 | 70 - 80 | 1 to 2 hours | 2 to 12 hours | 3 hours to indefinite |
 | Over 26.5 | Over 80 | 2 to 12 hours | Indefinnite | Indefinite |
 
-
 # The boom
 
-The boom on the DS37 is not particularly low, but it always presents a
-potential danger as it comes across the deck of the yacht. Make sure to always
-keep your head low and clear of the boom during any tacking or gybing
-manoeuvres. Calling out "HEADS!" is a good way to remind anyone not paying
-attention during a manoeuvre to keep low, so duck your head low if you hear it.
-
-A common mistake on the DS37 is that the helmsman stands too far forward when
-on the tiller which can result in being struck by the end of the boom as it
-comes across. Use the tiller while seated just aft of the mainsheet on the
-windward side. If you must stand while on the helm, be sure to stand far aft
-enough to avoid being hit by the boom end.
-
-# The tiller
-
-The rudder on the DS37 is massively oversized for manoeuvrability, which means
-that the yacht is quite nimble. One side effect of this is that the lower
-portion of the tiller which connects the rudder shaft to the tiller extension
-can exert extreme forces and is the perfect height to take out ankles. Take
-care not to stand within the swinging path of this lever, as it can easily
-break an ankle or foot if the rudder swings violently.
-
-# Mass and momentum
-
-The DS37 is a relatively heavy vessel with tremendous momentum. It should go
-without saying that a collision with any significant speed on can and will
-cause serious damage to persons or property.
-
-During berthing of the vessel, lines will be taken aboard from the pilings and
-used to slow the vessel's forward progress. You cannot stop the vessel in an
-instant (and attempting to do so will likely result in injury), so walk along
-the deck with the line to slowly absorb the momentum of the yacht ("bend, don't
-break").
+The boom can always presents a potential danger as it comes across the deck of
+the yacht. Make sure to always keep your head low and clear of the boom during
+any tacking or gybing manoeuvres. Calling out "HEADS!" is a good way to remind
+anyone not paying attention during a manoeuvre to keep low, so duck your head
+low if you hear it.
