@@ -18,21 +18,3 @@
 9. Sailing equipment shop (Nordbjærgs)
 10. Access ramp (Speed boats)
 11. Guest ramp & jetty (Fair weather pick up)
-
-# Departing Skovshoved
-TODO
-
-## Onshore wind
-TODO
-
-## Offshore wind
-TODO
-
-# Returning to Skovshoved
-TODO
-
-## Onshore wind
-TODO
-
-## Offshore wind
-TODO

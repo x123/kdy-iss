@@ -30,7 +30,9 @@ nav:
       - 'General Safety Information': kdy-safety.md
     - 'Pre-Departure Checklist': pre-departure-checklist.md
     - 'After-Sailing Checklist': after-sailing-checklist.md
-    - 'Skovshoved': skovshoved.md
+    - 'Skovshoved':
+      - 'Harbour Information': skovshoved.md
+      - 'Harbour Manoeuvres': skovshoved-manoeuvres.md
   - 'DS37 Manual':
     - 'Introduction': intro.md
     - 'The DS37': the-ds37.md
