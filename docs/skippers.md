@@ -8,6 +8,8 @@ Falsterbo reef light.
 ![Sailing Area](img/sailing_area.png)
 
 # Neighboring harbour mooring places:
+- Hellerup
+- Tårbæk
 - Vedbæk
 - Rungsted
 
