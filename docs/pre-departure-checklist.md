@@ -1,12 +1,19 @@
-# Pre-departure checklist
+* [ ] Passage planning
+* [ ] Book the boat for use in the system and confirm bookings.
+* [ ] Complete pre-departure boat log
+    * [ ] Date & Time
+    * [ ] Boat name/number
+    * [ ] Names of Skipper & Crew
+    * [ ] Contact number
+    * [ ] Weather
+    * [ ] Destination
+    * [ ] Expected latest return time)
 * [ ] Weather forecast checked
     * [ ] Wind strength and direction
     * [ ] Water temperature
     * [ ] Exhaustion, unconciousness, and expected survival times from [the
       cold water survival times
       table](safety.md#cold-water-survival-times)
-* [ ] Boat signed out in the paper binder inside the KDY clubhouse.
-* [ ] Passage planning
 * [ ] Handheld VHF Radio onboard
     * [ ] Powered on with sufficient battery
     * [ ] Configured correctly (volume, squelch, channel, key lock)
