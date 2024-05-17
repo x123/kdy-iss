@@ -115,6 +115,7 @@
    tidy.
 3. Hold the folds in place using sail ties.
 4. Secure the mainsail cover to protect the sail.
+5. Coil mainsheet in a gasket coin and fasten to hang under the boom.
 
 # Preparing the headsail
 
@@ -165,6 +166,8 @@ have battens, while others do not.
    the foot.
 4. Keep the foot stretched and keep flaking the sail.
 5. Once the head is reached, fold the sail from the clew towards the luff.
+6. Use a webbing sail ties to hold the bundle fast.
+7. Stow the headsail in the cabin on the starboard berth.
 
 # Rigging the spinnaker
 TODO
