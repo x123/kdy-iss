@@ -1,7 +1,11 @@
-site_name: KDY International Sailing School Docs
+site_name: KDY International Sailing School
 repo_url: https://github.com/x123/kdy-iss
 theme:
   name: material
+  features:
+    - navigation.footer
+extra:
+  generator: false
 validation:
   omitted_files: warn
   absolute_links: warn  # Or 'relative_to_docs' - new in MkDocs 1.6
@@ -9,11 +13,20 @@ validation:
   anchors: warn  # New in MkDocs 1.6
 markdown_extensions:
   - admonition
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.details
   - pymdownx.superfences
   - toc:
       permalink: "#"
       baselevel: 2
 nav:
-  - KDY International Sailing School: index.md
-  - DS37 Manual: ds37.md
+  - 'Getting Started': index.md
+  - 'DS37 Manual':
+    - 'Introduction': intro.md
+    - 'The DS37': the-ds37.md
+    - 'Safety': safety.md
+    - 'Sail Handling': sail-handling.md
+    - 'Checklists': checklists.md
+    - 'Manoeuvres': manoeuvres.md
