@@ -4,26 +4,16 @@
     pre-commit-hooks.url = "github:cachix/pre-commit-hooks.nix";
   };
 
-  outputs = inputs @ {
+  outputs = {
     self,
     nixpkgs,
     pre-commit-hooks,
     ...
   }: let
     supportedSystems = ["x86_64-linux" "aarch64-linux" "x86_64-darwin" "aarch64-darwin"];
-    forEachSupportedSystem = f:
-      nixpkgs.lib.genAttrs supportedSystems (system:
-        f {
-          inherit system;
-          pkgs = import nixpkgs {
-            inherit system;
-          };
-        });
+    forAllSystems = nixpkgs.lib.genAttrs supportedSystems;
   in {
-    checks = forEachSupportedSystem ({
-      pkgs,
-      system,
-    }: {
+    checks = forAllSystems (system: {
       pre-commit-check = pre-commit-hooks.lib.${system}.run {
         src = ./.;
         hooks = {
@@ -36,26 +26,41 @@
             noLambdaArg = true;
             noLambdaPatternNames = true;
           };
+          markdownlint.enable = true;
+          markdownlint.settings = {
+            configuration = {
+              "MD013" = {
+                "tables" = false;
+              };
+              "MD025" = false;
+              "MD029" = {
+                "style" = "one_or_ordered";
+              };
+              "MD041" = false;
+            };
+          };
           statix.enable = true;
         };
       };
     });
 
-    devShells = forEachSupportedSystem ({
-      pkgs,
-      system
-    }: {
-      default = pkgs.mkShell {
-        packages = [
-          (pkgs.python312.withPackages (python-pkgs: [
-            python-pkgs.mkdocs-material
-          ]))
-        ] ++
-        [
-          pkgs.alejandra
-          pkgs.deadnix
-          pkgs.statix
-        ];
+    devShells = forAllSystems (system: {
+      default = nixpkgs.legacyPackages.${system}.mkShell {
+        inherit (self.checks.${system}.pre-commit-check) shellHook;
+        buildInputs = self.checks.${system}.pre-commit-check.enabledPackages;
+        packages =
+          [
+            (nixpkgs.legacyPackages.${system}.python312.withPackages (python-pkgs: [
+              python-pkgs.mkdocs-material
+            ]))
+          ]
+          ++ [
+            nixpkgs.legacyPackages.${system}.alejandra
+            nixpkgs.legacyPackages.${system}.deadnix
+            nixpkgs.legacyPackages.${system}.markdownlint-cli
+            nixpkgs.legacyPackages.${system}.mdl
+            nixpkgs.legacyPackages.${system}.statix
+          ];
       };
     });
   };
