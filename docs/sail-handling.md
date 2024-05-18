@@ -65,9 +65,10 @@
 !!! Warning
     If the foot of the sail is tied to the boom (and not to itself), you must
     be **absolutely certain** to remove the reefing tidy lines prior to shaking out
-    the reef and raising the mainsail. Failure to do so will rip the mainsail. 
+    the reef and raising the mainsail. Failure to do so will rip the mainsail.
 
 ## Reefing Pennant Variation 1 - Fixed Eye
+
 1. Open the reefing pennant jammer
 2. Haul sufficient slack in by pulling on the reefing pennant at the end of the
    boom
@@ -79,6 +80,7 @@
 6. Secure with a fixed bowline.
 
 ## Reefing Pennant Variation 2 - Running Bowline
+
 1. Open the reefing pennant jammer
 2. Haul sufficient slack in by pulling on the reefing pennant at the end of the
    boom
@@ -93,6 +95,7 @@
 ![Reefing Pennant Variation 2 diagram](img/reefing_pennant_diagram.png)
 
 # Dropping the mainsail
+
 1. Flake the mainsail halyard so that it will run out clean without fouling.
 2. Take a few wraps of the mainsail halyard around the winch, with the jammer
    still closed.
@@ -108,6 +111,7 @@
 9. Coil and tidy the mainsail halyard and mainsheet.
 
 # Stowing the mainsail
+
 1. Push all of the mainsail to one side of the boom (the leeward side being
    generally easier).
 2. With crew at the mast and the aft of the boom, flake the sail from one side
@@ -150,6 +154,7 @@ have battens, while others do not.
 6. Tidy the remainder of the halyard and stow it inside.
 
 # Dropping the headsail
+
 1. Flake the headsail halyard so that it will run out clean without fouling.
 2. Take a few wraps of the headsail halyard around the winch, with the jammer
    still closed.
@@ -160,6 +165,7 @@ have battens, while others do not.
 6. Coil up and tidy the halyard and sheets.
 
 # Stowing the headsail
+
 1. Bring the headsail onto the dock.
 2. Stretch the foot of the sail along the dock.
 3. Working togther, kneel on the sail and grab a fold of sail and place it on
@@ -170,13 +176,17 @@ have battens, while others do not.
 7. Stow the headsail in the cabin on the starboard berth.
 
 # Rigging the spinnaker
+
 TODO
 
 # Hoisting the spinnnaker
+
 TODO
 
 # Dousing the spinnaker
+
 TODO
 
 # De-rigging and stowing the spinnaker
+
 TODO

@@ -9,7 +9,7 @@ replacement for certifications.
 
 1. To enable a competent skipper and crew to sail and operate a DS37 in a
    manner consistent with how the yachts are used within the KDY International
-   Sailing School. 
+   Sailing School.
 2. To serve as a living document and reference for students and skippers of ISS
    to learn from and contribute to as they continue to sail the vessel.
 
@@ -25,5 +25,5 @@ doubt.
 
     __The conditions on the day, the competence of the crew, and ultimately the
     discretion of the skipper all affect the choice of approach to any given
-    situation. Use common sense and let this manual be a guide, not a strict set of
-    rules never to be deviated from.__
+    situation. Use common sense and let this manual be a guide, not a strict
+    set of rules never to be deviated from.__

@@ -1,3 +1,5 @@
+# After Sailing Checklist
+
 * [ ] Moor the boat with 2 lines aft, 2 fore and 1 spring. The tension in the
       mooring lines should allow for changes in water height and not allow the
       boats to touch the quayside.
@@ -23,4 +25,3 @@
 * [ ] Check for breakages. Fix or report breakages.
 * [ ] Complete logbook (skipper signs off). Check any overdue boats.
 * [ ] Return safety bag & VHF.
-

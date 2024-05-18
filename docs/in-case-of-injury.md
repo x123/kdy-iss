@@ -22,10 +22,10 @@
   them about any medical conditions.
 5. The priority is to get the injured person ashore. 2-3 people should help the
    injured person on board and also ashore. The club RIB motor boat is there
-   for safety needs. KDY members on VHF channels P1 and P2 can help. 
+   for safety needs. KDY members on VHF channels P1 and P2 can help.
 6. If a hospital check is considered, then do it. Impacts to the head from the
    boom, water inhalation (secondary drowning), suspected fractures, shock, and
-   hypothermia are all injuries that need hospital treatment. 
+   hypothermia are all injuries that need hospital treatment.
 7. To go to hospital, first call 1813 for a recommendation on which hospital
    emergency room to go to. Use a car or call a taxi to get there. Call 112 if
    paramedic treatment or an ambulance are needed or if the injured person

@@ -1,4 +1,5 @@
 # Tacking
+
 1. Look around to ensure there is no risk before changing course.
 2. The helm calls "ready about" or "ready to tack" and the crew prepares the
    headsail sheets.
@@ -9,6 +10,7 @@
 5. The headsail begins to fill, and the crew trims in the sail.
 
 # Gybing (controlled)
+
 1. Look around to ensure there is no risk before changing course.
 2. The helm calls "ready to gybe" or "standby to gybe", the crew release the
    preventer (if rigged) and sheets in the mainsail to center.
@@ -21,6 +23,7 @@
    using a preventer).
 
 # Heaving to
+
 1. The helm calls "heaving to".
 2. The bow is brought through the wind, just like when tacking.
 3. The original headsail sheet is left tight, so that the headsail backs.

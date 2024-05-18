@@ -1,4 +1,7 @@
-This section deals with Safety information which is specific to the DS37 *only*. Be sure to also familiarize yourself with:
+# About this section
+
+This section deals with Safety information which is specific to the DS37
+*only*. Be sure to also familiarize yourself with:
 
 - [In Case of Injury](in-case-of-injury.md)
 - [General Safety Information](kdy-safety.md)
@@ -6,7 +9,7 @@ This section deals with Safety information which is specific to the DS37 *only*.
 # Secure footing and staying onboard
 
 Staying onboard and preventing falls is critical on any yacht, and the DS37 is
-no different. Always follow _"one hand for the boat, one hand for yourself"_ as
+no different. Always follow *"one hand for the boat, one hand for yourself"* as
 you move around on the yacht. Stay low, move methodically, and avoid rushing,
 running, or jumping. Being an older yacht the non-skid on the deck is not as
 aggressive and "grippy" as on a newer vessel, so take care. Quality sailing

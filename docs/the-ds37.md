@@ -1,4 +1,5 @@
 # Description
+
 The DS 37 Match Racer is an 11.25-metre (36.9 ft) long sloop rigged sailing
 yacth, designed by Jacob Vierø in 1991 and used in the Stena Match Cup Sweden,
 part of the World Match Racing Tour. The design of the boat includes an
@@ -7,11 +8,12 @@ for beginners as well because of its simplicity and robustness. However, in
 Match racing, it is one of the most physically demanding boats found in the
 international matchracing circuit. The boat is used mainly in the Scandinavian
 countries, where it can be found as inventory of several of the big yacht
-clubs, such as the Royal Danish Yacht Club or the Royal Gothenburg Yacht Club. 
+clubs, such as the Royal Danish Yacht Club or the Royal Gothenburg Yacht Club.
 
 ![KDY DS37 #6 in Skovshoved Havn](img/ds37_6.png)
 
 # Specifications
+
 | Model | DS37 Match Racer |
 | --- | --- |
 | Designer | Jacob Vierø |

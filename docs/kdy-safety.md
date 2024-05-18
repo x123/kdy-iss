@@ -1,4 +1,5 @@
 # Staying safe
+
 Like any sport, sailing is not without risk. Ensure you have read and
 understood this section, as common mistakes documented here can prevent injury.
 
@@ -17,7 +18,7 @@ injury, so use fenders instead of limbs.
 # Secure footing and staying onboard
 
 Staying onboard and preventing falls is critical on any yacht. Always follow
-_"one hand for the boat, one hand for yourself"_ as you move around on the
+*"one hand for the boat, one hand for yourself"* as you move around on the
 yacht. Stay low, move methodically, and avoid rushing, running, or jumping.
 Quality sailing boots or shoes that provide adequate grip are important, but
 need not expensive. Avoid stepping on lines or sails, as both are common causes
@@ -55,7 +56,7 @@ alongside the casualty to recover them and the crew will recover the casualty.
 
 !!! Warning
     If there is *any* doubt about a swift or safe recovery, call for assistance
-    on VHF 16. 
+    on VHF 16.
 
     An urgency message (to begin with the signal PAN-PAN) indicates that the
     station making it has a very urgent message to transmit concerning the safety
@@ -73,6 +74,7 @@ alongside the casualty to recover them and the crew will recover the casualty.
     situation.__
 
 # Cold Water Survival Times
+
 Loss of dexterity and the ability to manipulate fingers, exhaustion or
 unconsciousness, and death to drowning or hypothermia can happen more quickly
 than most people realize if they are not familiar with cold water survival

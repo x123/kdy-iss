@@ -1,13 +1,17 @@
 # Skovshoved Harbour
+
 ![Skovshoved Havn Facilities](img/skovshoved_facilities.png)
 
-
 ## Medical
+
 ### 1. First-aid kit
+
 ### 2. First-aid kit
-### 8. Heart starter (AED) - in harbourmaster's office on the corner.
+
+### 8. Heart starter (AED) - in harbourmaster's office on the corner
 
 ## Facilities
+
 1. Restaurant & Club room
 2. KDY clubhouse (Basen)
 3. Service station & Ice-cream shop
