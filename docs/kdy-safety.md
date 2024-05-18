@@ -30,28 +30,46 @@ overboard.
 
 # Man Overboard (MOB)
 
-- Shout "Man Overboard!" so that everyone is aware of the situation.
-- Throw the floating horseshoe lifering to the casualty, even if they have a
-  lifejacket. It will serve as a datum, a method of floatation, and may assist
-  with hauling the casualty onboard.
-- Assign a person to point at the casualty and maintain constant visual
-  contact. This person should never take their eyes off of the casualty in the
-  water.
-- The skipper will use the VHF or delegate the crew to use VHF to inform the
-  other KDY boats or indeed to call for assistance on VHF 16, as appropriate.
-- The skipper will decide the appropriate manoeuvre to position the yacht
-  alongside the casualty to recover them.
-- The crew will recover the casualty, taking care not to get into the water.
+In the event of a Man Overboard (MOB), we use the mnemonic *SPHERES* to help
+remember the steps.
+
+- S - Shout - Shout "Man Overboard!" so that everyone is aware of the situation.
+- P - Point - Assign a person to point at the casualty and maintain constant
+  visual contact. This person should never take their eyes off of the casualty
+  in the water.
+- H - Heave to (Munich manoevre) - This will slow the boat and give you time to
+  assess the situation and act accordingly.
+- E - Equipment thrown (Danbuoy, ring, lifeline) - Throw the floating
+  horseshoe lifering to the casualty, even if they have a lifejacket. It will
+  serve as a datum, a method of floatation, and may assist with hauling the
+  casualty onboard.
+- R - Radio (& ropework) - The skipper will use the VHF or delegate the crew to
+  use VHF to inform the other KDY boats or indeed to call for assistance on VHF
+  16, as appropriate. Tidy any ropes and prepare ropes that will be needed for
+  recovery.
+- E - Engine - Start the engine (if so equipped)
+- S - Sails - (center the mainsail & furl, drop, luff, or use the headsail)
+
+The skipper will decide the appropriate manoeuvre to position the yacht
+alongside the casualty to recover them and the crew will recover the casualty.
 
 !!! Warning
     If there is *any* doubt about a swift or safe recovery, call for assistance
-    on VHF 16. The Maritime SAR Convention defines the distress phase as *"a
-    situation wherein there is reasonable certainty that a person, a vessel or
-    other craft is threatened by grave and imminent danger and requires immediate
-    assistance"*.
+    on VHF 16. 
+
+    An urgency message (to begin with the signal PAN-PAN) indicates that the
+    station making it has a very urgent message to transmit concerning the safety
+    of a ship or person. It may be prudent to use a PAN-PAN to let stations in
+    the vicinity know that a person is in the water and that you are attempting
+    recovery.
+
+    The distress phase (to begin with MAYDAY) is *"a situation wherein there is
+    reasonable certainty that a person, a vessel or other craft is threatened by
+    grave and imminent danger and requires immediate assistance"*.
 
     __A man overboard at sea in anything but the calmest conditions or warmest
-    waters is *almost always* at least an urgency, and quite possibly a distress
+    waters is *almost always* at least an urgency (to notify nearby stations of the
+    situation), and if a swift and safe recovery is in doubt, possibly a distress
     situation.__
 
 # Cold Water Survival Times
