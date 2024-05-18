@@ -1,4 +1,5 @@
 # Behavior in the harbour
+
 - Keep focused!
 - Give crew orders well ahead of manoeuvres.
 - Beware of other boats, kayaks, poles, dinghies, ribs etc.
@@ -9,6 +10,7 @@
 - Use backing of headsail to force bow down when needed.
 
 # Going Out (General Guidance)
+
 - Choose between hoisting at a pole or letting go cowboy-style. Cowboy-style
   allows less time for stopping and explaining if any.
 - In western winds, hoisting at pole or cowboy-style are both fairly simple.
@@ -22,6 +24,7 @@
   solid: winch, pole, clamp...
 
 ## Hoisting sails at a pole (Westerly winds)
+
 ![Hoisting sails at a pole - Skovshoved Havn (Westerly Winds)](img/going-out-pole-westerly.png)
 
 - Rig boat.
@@ -35,6 +38,7 @@
 - Bear away to the side you are pointing, trim sails and sail out.
 
 ## Hoisting sails at a pole (Easterly winds)
+
 ![Hoisting sails at a pole - Skovshoved Havn (Easterly Winds) 1](img/going-out-start.png)
 
 - Rig boat.
@@ -58,6 +62,7 @@
 ![Hoisting sails at a pole - Skovshoved Havn (Easterly Winds) 4](img/going-out-pole-easterly-4.png)
 
 ## Hoisting cowboy-style (Southerly winds)
+
 ![Hoisting cowboy-style - Skovshoved Havn (Southerly winds) 1](img/going-out-start.png)
 
 - Rig boat
@@ -83,6 +88,7 @@
   ![Hoisting cowboy-style - Skovshoved Havn (Southerly winds) 4](img/going-out-cowboy-southerly-4.png)
 
 ## Hoisting cowboy-style (Northerly winds)
+
 ![Hoisting cowboy-style - Skovshoved Havn - (Northerly winds) 1](img/going-out-start.png)
 
 - Rig boat.
@@ -107,6 +113,7 @@
 - Bear away and tack your way out.
 
 # Going In (General Guidance)
+
 - All sails should be down before entering the box.
 - Take sails down in time to bring down the speed so the boat stops without or
   just little help of moorings, pushing from the pier, etc.
@@ -120,6 +127,7 @@
 - If you need to stop boat with the moorings - put the line around a winch.
 
 ## Going In (Westerly winds)
+
 ![Going In (Westerly winds)](img/going-in-westerly.png)
 
 - Outside harbour: run through halyards, dedicate crew to mast, halyards and
@@ -131,6 +139,7 @@
   the box. Take into account that the wind is against you.
 
 ## Going In (Easterly winds)
+
 ![Going In (Easterly winds)](img/going-in-easterly.png)
 
 - Outside harbour: run through halyards, have sail ties ready for main,
@@ -139,4 +148,3 @@
 - Bear away and keep headsail trimmed
 - Drop the headsail with just enough speed remaining to enter the box. Take
   into account the the wind will push you even without sails
-
