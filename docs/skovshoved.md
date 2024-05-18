@@ -1,6 +1,7 @@
 # Skovshoved Harbour
 ![Skovshoved Havn Facilities](img/skovshoved_facilities.png)
 
+
 ## Medical
 ### 1. First-aid kit
 ### 2. First-aid kit
