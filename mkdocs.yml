@@ -4,6 +4,25 @@ theme:
   name: material
   features:
     - navigation.footer
+    - navigation.expand
+    - navigation.sections
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+    - toc.integrate
+  logo: img/kdy-logo.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
 extra:
   generator: false
 validation:
