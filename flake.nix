@@ -39,6 +39,15 @@
               "MD041" = false;
             };
           };
+          mkdocs-linkcheck = {
+            enable = false;
+            pass_filenames = false;
+            settings = {
+              path = "docs";
+              local-only = true;
+              recurse = true;
+            };
+          };
           statix.enable = true;
         };
       };
