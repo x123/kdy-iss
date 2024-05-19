@@ -46,21 +46,20 @@ markdown_extensions:
       baselevel: 2
 nav:
   - 'Getting Started': index.md
-  - 'KDY ISS':
-    - 'Skippers':
-      - 'Information for Skippers': skipper-info.md
-      - 'Pre-Departure Checklist': pre-departure-checklist.md
+  - 'Skippers':
+    - 'Information for Skippers': skipper-info.md
+    - 'Pre-Departure Checklist': pre-departure-checklist.md
+    - 'Skovshoved Harbour Manoeuvres': skovshoved-manoeuvres.md
+    - 'After-Sailing Checklist': after-sailing-checklist.md
+    - 'Skipper Approval & Training': skipper-approval-training.md
+  - 'Safety':
+    - 'In Case of Injury': in-case-of-injury.md
+    - 'General Safety Information': kdy-safety.md
+    - 'VHF Radio': vhf-radio.md
+  - 'Harbours':
+    - 'Skovshoved Havn':
+      - 'Skovshoved Facilities': skovshoved.md
       - 'Skovshoved Harbour Manoeuvres': skovshoved-manoeuvres.md
-      - 'After-Sailing Checklist': after-sailing-checklist.md
-      - 'Skipper Approval & Training': skipper-approval-training.md
-    - 'Safety':
-      - 'In Case of Injury': in-case-of-injury.md
-      - 'General Safety Information': kdy-safety.md
-      - 'VHF Radio': vhf-radio.md
-    - 'Harbours':
-      - 'Skovshoved Havn':
-        - 'Skovshoved Facilities': skovshoved.md
-        - 'Skovshoved Harbour Manoeuvres': skovshoved-manoeuvres.md
   - 'DS37 Manual':
     - 'Introduction': intro.md
     - 'About the DS37': the-ds37.md
