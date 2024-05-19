@@ -17,13 +17,14 @@
 1. Turn the radio on by holding power button until the unit powers on.
 2. If the keylock is on (indicated by the :material-key: icon showing up in the
    upper-right of the screen), disable it by holding the :material-key: button.
-3. Adjust the volume by using the "Vol/Sq" button to between 15 and 20.
+3. Adjust the volume by using the **VOL/SQL** button to between 15 and 20.
 4. Adjust the squelch to the lowest possible setting which still filters out
    background noise (usually 1 or 2).
-5. Change the radio channel to P2 using the arrow keys.
-6. Use the HI/LO soft-key to ensure the radio is set to high power.
+5. Change the radio channel to **P2** using the arrow keys.
+6. Use the **HI/LO** soft-key to ensure the radio is set to high power.
 7. Make a [radio check](#radio-check) to another boat.
-8. Use the DW (dual watch) soft-key to ensure the screen reads DUAL 16 or TRI 16.
+8. Use the **DW** (dual watch) soft-key to ensure the screen reads DUAL 16 or
+   TRI 16.
 9. Press and hold the :material-key: button to ensure the keylock is activated.
    (this ensures that no button presses change the channel or settings, but the
    side Push to Talk (PTT) button will work as normal)
