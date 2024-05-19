@@ -4,6 +4,20 @@
     SRC training course and certification. There should always be a qualified VHF
     SRC operator onboard.
 
+## Authority of the Master
+
+A ship radio station and the service it provides are placed under the authority
+of the master, skipper, or the person responsible for the safety of the vessel.
+
+Do not transmit or operate the radio without the permission of the current
+master of the vessel (which may be the first mate if the skipper goes
+overboard).
+
+!!! Remember
+
+    **The master of the vessel must always authorize a Distress or Urgency call
+    being made.**
+
 ## Important VHF Channels for KDY Sailors
 
 | Channel | Description                          |
