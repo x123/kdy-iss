@@ -18,8 +18,8 @@
 2. If the keylock is on (indicated by the :material-key: icon showing up in the
    upper-right of the screen), disable it by holding the :material-key: button.
 3. Adjust the volume by using the **VOL/SQL** button to between 15 and 20.
-4. Adjust the squelch to the lowest possible setting which still filters out
-   background noise (usually 1 or 2).
+4. Adjust the squelch by using the **VOL/SQL** button to the lowest possible
+   setting which still filters out background noise (usually 1 or 2).
 5. Change the radio channel to **P2** using the arrow keys.
 6. Use the **HI/LO** soft-key to ensure the radio is set to high power.
 7. Make a [radio check](#radio-check) to another boat.
