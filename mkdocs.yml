@@ -32,10 +32,14 @@ validation:
   anchors: warn  # New in MkDocs 1.6
 markdown_extensions:
   - admonition
+  - attr_list
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.superfences
   - toc:
       permalink: "#"
@@ -52,11 +56,14 @@ nav:
     - 'Safety':
       - 'In Case of Injury': in-case-of-injury.md
       - 'General Safety Information': kdy-safety.md
+      - 'VHF Radio': vhf-radio.md
     - 'Harbours':
-      - 'Skovshoved Havn': skovshoved.md
+      - 'Skovshoved Havn':
+        - 'Skovshoved Facilities': skovshoved.md
+        - 'Skovshoved Harbour Manoeuvres': skovshoved-manoeuvres.md
   - 'DS37 Manual':
     - 'Introduction': intro.md
-    - 'The DS37': the-ds37.md
-    - 'DS37-specific Safety': ds37-safety.md
+    - 'About the DS37': the-ds37.md
+    - 'Safety on the DS37': ds37-safety.md
     - 'Sail Handling': sail-handling.md
     - 'Manoeuvres': manoeuvres.md
