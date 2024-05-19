@@ -38,23 +38,23 @@
         * [ ] Halyards
         * [ ] Outhaul and reefing pennant
 * [ ] Equipment checks
+    * [ ] Lifering/Danbuoy
+    * [ ] Bucket and scoops for bailing water
+    * [ ] Anchor/ground tackle *(As safety equipment, even if you have no intention
+    of anchoring)*
     * [ ] Handheld VHF Radio onboard
         * [ ] Powered on with sufficient battery
-        * [ ] Configured correctly (volume, squelch, channel, key lock)
-        * [ ] Radio check completed with another boat
+        * [ ] Configured correctly *(refer to [Radio Setup](vhf-radio.md#radio-setup))*
+        * [ ] Radio Check *(refer to [Radio Check](vhf-radio.md#radio-check))*
     * [ ] Blue safety bag onboard
         * [ ] 2 red handheld flares
         * [ ] 2 red parachute flares
-        * [ ] First Aid Kit
+        * [ ] First-aid Kit
         * [ ] Knife
         * [ ] Fog horn
         * [ ] Hand-bearing compass
-        * [ ] Paper Charts
+        * [ ] Paper charts
         * [ ] Extra sail ties/elastics
         * [ ] Screwdriver set
         * [ ] Pliers
         * [ ] Trash bags
-    * [ ] Lifering (Danbuoy)
-    * [ ] Bucket and scoops for bailing water
-    * [ ] Anchor/ground tackle (As safety equipment, even if you have no intention
-    of anchoring).
