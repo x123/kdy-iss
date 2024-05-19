@@ -36,14 +36,17 @@ overboard).
    setting which still filters out background noise (usually 1 or 2).
 5. Change the radio channel to **P2** using the arrow keys.
 6. Use the **HI/LO** soft-key to ensure the radio is set to high power.
+   *(Normally we use the lowest power possible that still provides reliable
+   communication to avoid interference with other vessels, but these handheld
+   radios have very low range and P1 and P2 are designated for private use)*
 7. Make a [radio check](#radio-check) to another boat.
 8. Use the **DW** (dual watch) soft-key to ensure the screen reads DUAL 16 or
    TRI 16.
 9. Press and hold the :material-key: button to ensure the keylock is activated.
    (this ensures that no button presses change the channel or settings, but the
    side Push to Talk (PTT) button will work as normal)
-10. Secure the radio (usually hung off the stern pushpit rails behind the
-    tiller).
+10. Secure the radio. *(Usually hung off the stern pushpit rails behind the
+    tiller)*.
 
 !!! Info
 
