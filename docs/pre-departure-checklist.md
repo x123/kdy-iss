@@ -9,11 +9,11 @@
 * [ ] Complete pre-departure boat log
     * [ ] Date & Time
     * [ ] Boat name/number
-    * [ ] Names of Skipper & Crew
+    * [ ] Name of Skipper & Number of Persons total
     * [ ] Contact number
     * [ ] Weather
     * [ ] Destination
-    * [ ] Expected latest return time)
+    * [ ] Expected latest return time
 * [ ] Crew Safety Briefing
     * [ ] First mate
     * [ ] MOB and Recovery
