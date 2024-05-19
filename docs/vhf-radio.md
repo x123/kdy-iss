@@ -104,6 +104,11 @@ An urgency call (PAN-PAN) is used when *"the calling station has very urgent
 information to transmit concerning the safety of a person, vessel, vehicle, or
 aircraft"*.
 
+1. Change to VHF Channel 16 using the arrow keys.
+2. Set radio to high power (using the **HI/LO** soft-key).
+3. Use the Push-to-Talk (PTT) button on the side to transmit.
+4. Proceed to transmit urgency message by voice.
+
 ### An example urgency call for medical advice
 
 > PAN-PAN, PAN-PAN, PAN-PAN
@@ -128,6 +133,11 @@ aircraft"*.
 
 A distress situation: *"a person, vessel, vehicle, or aircraft is in grave and
 imminent danger, and immediate assistance is required"*.
+
+1. Change to VHF Channel 16 using the arrow keys.
+2. Set radio to high power (using the **HI/LO** soft-key).
+3. Use the Push-to-Talk (PTT) button on the side to transmit.
+4. Proceed to transmit distress message by voice.
 
 ### MIPDANIO
 
