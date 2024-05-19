@@ -104,10 +104,13 @@ An urgency call (PAN-PAN) is used when *"the calling station has very urgent
 information to transmit concerning the safety of a person, vessel, vehicle, or
 aircraft"*.
 
-1. Change to VHF Channel 16 using the arrow keys.
-2. Set radio to high power (using the **HI/LO** soft-key).
-3. Use the Push-to-Talk (PTT) button on the side to transmit.
-4. Proceed to transmit urgency message by voice.
+### Making a urgency call
+
+1. Disable the keylock (if enabled) by holding the :material-key: button.
+2. Change to **CH 16** using the arrow keys.
+3. Set radio to high power (using the **HI/LO** soft-key).
+4. Use the Push-to-Talk (PTT) button on the side to transmit.
+5. Proceed to transmit urgency message by voice.
 
 ### An example urgency call for medical advice
 
@@ -134,11 +137,6 @@ aircraft"*.
 A distress situation: *"a person, vessel, vehicle, or aircraft is in grave and
 imminent danger, and immediate assistance is required"*.
 
-1. Change to VHF Channel 16 using the arrow keys.
-2. Set radio to high power (using the **HI/LO** soft-key).
-3. Use the Push-to-Talk (PTT) button on the side to transmit.
-4. Proceed to transmit distress message by voice.
-
 ### MIPDANIO
 
 A useful mnemonic to remember the information required to communicate on a
@@ -156,6 +154,14 @@ distress call is MIPDANIO:
 - **I** - Any other useful information to rescuers (e.g., "we are a 37-foot
   white sailing yacht")
 - **O** - OVER
+
+### Making a distress call
+
+1. Disable the keylock (if enabled) by holding the :material-key: button.
+2. Change to **CH 16** using the arrow keys.
+3. Set radio to high power (using the **HI/LO** soft-key).
+4. Use the Push-to-Talk (PTT) button on the side to transmit.
+5. Proceed to transmit distress message by voice.
 
 ### An example distress call for a vessel sinking
 
