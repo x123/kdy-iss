@@ -1,5 +1,3 @@
-# Skovshoved Harbour
-
 ![Skovshoved Havn Facilities](img/skovshoved_facilities.png)
 
 ## Medical

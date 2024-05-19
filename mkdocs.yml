@@ -9,7 +9,7 @@ theme:
     - navigation.tracking
     - navigation.top
     - toc.follow
-    - toc.integrate
+    #- toc.integrate
   logo: img/kdy-logo.png
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -43,15 +43,17 @@ markdown_extensions:
 nav:
   - 'Getting Started': index.md
   - 'KDY ISS':
-    - 'Information for Skippers': skippers.md
+    - 'Skippers':
+      - 'Information for Skippers': skipper-info.md
+      - 'Pre-Departure Checklist': pre-departure-checklist.md
+      - 'Skovshoved Harbour Manoeuvres': skovshoved-manoeuvres.md
+      - 'After-Sailing Checklist': after-sailing-checklist.md
+      - 'Skipper Approval & Training': skipper-approval-training.md
     - 'Safety':
       - 'In Case of Injury': in-case-of-injury.md
       - 'General Safety Information': kdy-safety.md
-    - 'Pre-Departure Checklist': pre-departure-checklist.md
-    - 'After-Sailing Checklist': after-sailing-checklist.md
-    - 'Skovshoved':
-      - 'Harbour Information': skovshoved.md
-      - 'Harbour Manoeuvres': skovshoved-manoeuvres.md
+    - 'Harbours':
+      - 'Skovshoved Havn': skovshoved.md
   - 'DS37 Manual':
     - 'Introduction': intro.md
     - 'The DS37': the-ds37.md

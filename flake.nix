@@ -29,6 +29,10 @@
           markdownlint.enable = true;
           markdownlint.settings = {
             configuration = {
+              "MD007" = {
+                "indent" = 4;
+                "start_indent" = 4;
+              };
               "MD013" = {
                 "tables" = false;
               };
