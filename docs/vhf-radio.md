@@ -58,11 +58,11 @@ broadcast for help), but you must identify yourself.
 
     KDY DS37 #1, KDY DS37 #1 *(identify the station being called twice)*
 
-    This is KDY DS37 #2 *(identify the station making the call once)*
+    THIS IS KDY DS37 #2 *(identify the station making the call once)*
 
     When do you expect to arrive in Skovshoved?
 
-    Over *(This is the end of my trasmission and a reply is expected)*
+    OVER *(This is the end of my trasmission and a reply is expected)*
 
 ## Radio Check
 
