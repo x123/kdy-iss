@@ -22,6 +22,13 @@ Then you can run and serve the docs locally with:
 mkdocs serve
 ```
 
+You can run all the pre-commit hook checks (markdown linting, spell checking,
+etc) with:
+
+```bash
+nix flake check
+```
+
 #### direnv
 
 `direnv` with `nix-direnv` is also supported via the `.envrc` file.
