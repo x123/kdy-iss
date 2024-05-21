@@ -34,7 +34,7 @@
 
 !!! Tip
 
-    The DS37 is usually not rigged with a reefing line of sufficient length to
+    The DS37s are not always rigged with a reefing line of sufficient length to
     be able to preemptively rig the reefing line but still raise the full mainsail.
     If the weather forecast calls for a reef in the main at any point later in your
     sail, it's best to rig and reef the mainsail from the beginning. Reefing the
