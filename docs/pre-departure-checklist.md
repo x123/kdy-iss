@@ -8,7 +8,7 @@ in parallel.
     * [ ] No gale warning or fog risk
     * [ ] Wind strength and direction
     * [ ] Water temperature
-    * [ ] Exhaustion, unconciousness, and expected survival times from [the
+    * [ ] Exhaustion, unconsciousness, and expected survival times from [the
       cold water survival times table](kdy-safety.md#cold-water-survival-times)
 * [ ] Passage planning
 * [ ] Book the boat for use in the system and confirm bookings.

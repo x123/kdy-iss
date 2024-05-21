@@ -8,19 +8,19 @@
    has a figure-of-eight stopper, but keep it jammed until the crew is finished
    working around the boom.
 4. Ensure the vang, cunningham, and outhaul are slackened but do not have
-   exessive slack.
+   excessive slack.
 
 # Hoisting the mainsail
 
 1. Remove all sail ties from the mainsail
 2. Bring the yacht head-to-wind.
-3. Ensure the vang, cunningham, and outhaul are slack (but do not have exessive
-   slack that could tangle).
+3. Ensure the vang, cunningham, and outhaul are slack (but do not have
+   excessive slack that could tangle).
 4. Send a person to the starboard side of the mast to hoist the mainsail by
    hauling on the mainsail halyard out and down while taking up slack through
    an open jammer in the cockpit.
 5. Keep a close eye on the mainsail as it's raised to ensure no fouling or
-   jams. Stop if neccesary.
+   jams. Stop if necessary.
 6. Close the jammer and tighten the halyard using the cockpit winch. Watch the
    luff of the sail to ensure correct tension and that the sail is set
    correctly.
@@ -32,7 +32,7 @@
 
 !!! Tip
 
-    The DS37 is ususally not rigged with a reefing line of sufficient length to
+    The DS37 is usually not rigged with a reefing line of sufficient length to
     be able to preemptively rig the reefing line but still raise the full mainsail.
     If the weather forecast calls for a reef in the main at any point later in your
     sail, it's best to rig and reef the mainsail from the beginning. Reefing the
@@ -41,8 +41,8 @@
 
 1. Remove all sail ties from the mainsail
 2. Bring the yacht head-to-wind.
-3. Ensure the vang, cunningham, and outhaul are slack (but do not have exessive
-   slack that could tangle).
+3. Ensure the vang, cunningham, and outhaul are slack (but do not have
+   excessive slack that could tangle).
 4. Rig the reefing pennant using either of the reefing pennant variations
    outlined below.
 5. Send a person to the starboard side of the mast to partially hoist the
@@ -50,7 +50,7 @@
    hauling on the mainsail halyard out and down while taking up slack through
    an open jammer in the cockpit.
 6. Keep a close eye on the mainsail as it's raised to ensure no fouling or
-   jams. Stop if neccesary.
+   jams. Stop if necessary.
 7. Close the jammer and tighten the halyard using the cockpit winch. Watch the
    luff of the sail to ensure correct tension and that the sail is set
    correctly.
@@ -100,8 +100,8 @@
 2. Take a few wraps of the mainsail halyard around the winch, with the jammer
    still closed.
 3. Bring the yacht head-to-wind.
-4. Ensure the vang, cunningham, and outhaul are slack (but do not have exessive
-   slack that could tangle).
+4. Ensure the vang, cunningham, and outhaul are slack (but do not have
+   excessive slack that could tangle).
 5. When ready to drop, open the mainsail jammer and whip the coils up and off
    of the winch to release the halyard.
 6. Crew at the mast may help bringing the sail down by pulling the luff down.

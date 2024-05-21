@@ -38,7 +38,7 @@ remember the steps.
 - P - Point - Assign a person to point at the casualty and maintain constant
   visual contact. This person should never take their eyes off of the casualty
   in the water.
-- H - Heave to (Munich manoevre) - This will slow the boat and give you time to
+- H - Heave to (Munich manoeuvre) - This will slow the boat and give you time to
   assess the situation and act accordingly.
 - E - Equipment thrown (Danbuoy, ring, lifeline) - Throw the floating
   horseshoe lifering to the casualty, even if they have a lifejacket. It will
@@ -82,9 +82,9 @@ times.
 
 !!! Warning
     A casualty in the water with only a buoyancy aid (i.e., not a proper
-    lifejacket designed to turn an unconcious casualty upright and keep their
+    lifejacket designed to turn an unconscious casualty upright and keep their
     airway clear of the water) is almost certain to drown upon loss of
-    conciousness.
+    consciousness.
 
 | Water Temperature Degrees C | Water Temperature Degrees F | Loss of Dexterity | Exhaustion or Unconsciousness | Expected Time of Survival |
 |-----------------------------|-----------------------------|-------------------|-------------------------------|---------------------------|
