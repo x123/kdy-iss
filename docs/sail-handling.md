@@ -96,6 +96,49 @@
 *Below: A diagram illustrating Reefing Pennant Variation 2*
 ![Reefing Pennant Variation 2 diagram](img/reefing_pennant_diagram.png)
 
+## Shaking out a reef
+
+1. Remove any sail ties or elastic ties used to tidy the foot of the mainsail
+   with the reefing points. *(If underway, complete this while still sailing
+   upwind and the boom is stationary.)*
+
+    !!! Warning
+
+        Failure to remove the sail ties will likely result in ripping the
+        mainsail.
+
+2. Bring the yacht head-to-wind.
+3. Ensure the vang and cunningham are slack (but do not have excessive slack
+   that could tangle).
+4. Take the main halyard up with 3 wraps on the starboard cockpit winch.
+5. Open the main halyard jammer and ease the halyard to drop the mainsail just
+   enough so the crew at the mast can unhook the reefing cringle from the rams
+   horn.
+6. Untie the reefing pennant from the aft end of the boom and remove it from
+   the reefing cringle at the luff of the mainsail.
+
+    !!! Tip
+
+        If this step cannot be completed safely due to the boom swinging,
+        consider dropping the main completely, taking in the mainsheet to
+        secure the boom, and removing the reefing pennant.
+
+7. Tie a figure of eight stopper knot at the end of the reefing pennant so it
+   does not get lost in the boom, and pull the slack through the closed
+   starboard jammer such that the stopper sits neatly at the aft end of the
+   boom.
+8. Crew at the starboard side of the mast hoist the mainsail by hauling on the
+   mainsail halyard out and down while taking up slack through an open jammer
+   in the cockpit.
+9. Keep a close eye on the mainsail as it's raised to ensure no fouling or
+   jams. Stop if necessary.
+10. Close the jammer and tighten the halyard using the cockpit winch. Watch the
+    luff of the sail to ensure correct tension and that the sail is set
+    correctly.
+11. Tighten the outhaul and vang. Tidy the remainder of the halyard and stow
+   it inside.
+12. The helm can now bear away and begin sailing.
+
 ## Dropping the mainsail
 
 1. Flake the mainsail halyard so that it will run out clean without fouling.
