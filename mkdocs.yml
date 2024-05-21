@@ -61,7 +61,6 @@ nav:
       - 'Skovshoved Facilities': skovshoved.md
       - 'Skovshoved Harbour Manoeuvres': skovshoved-manoeuvres.md
   - 'DS37 Manual':
-    - 'Introduction': intro.md
     - 'About the DS37': the-ds37.md
     - 'Safety on the DS37': ds37-safety.md
     - 'Sail Handling': sail-handling.md

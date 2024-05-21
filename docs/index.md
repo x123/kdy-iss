@@ -28,7 +28,6 @@ get around.
 ## DS37 Manual
 
 - [About the DS37](the-ds37.md)
-- [Introduction](intro.md)
 - [Safety on the DS37](ds37-safety.md)
 - [Sail Handling](sail-handling.md)
 - [Manoeuvres](manoeuvres.md)
