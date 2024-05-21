@@ -66,3 +66,7 @@ Sail training is postponed or replaced with shore training in the event of:
 - DS37: Max 7 people on board. Instructor on board: 1:6 students.
 - J70: Max 5 people on board. Instructor on board: 1:4 students.
 - RIB: Max 7 people on board. Instructor on board: 1:5 students.
+
+# Other Useful Resources
+
+- [KDY Members Qualifications Tracker](https://docs.google.com/spreadsheets/d/17pDFEG8OWpahGrrO1-iRIhAl2Qy5CTbbLioWB33Nfzg/edit?usp=sharing)
