@@ -43,7 +43,7 @@ sailing conditions:
 5. Clear instruction to crew.
 6. Competency in reefing and heaving to.
 7. Use of compass and compass steering.
-8. Practical understaing of KDY safety procedures, collision regulations
+8. Practical understanding of KDY safety procedures, collision regulations
    (IRPCS), and Sail Safety guidance.
 9. Successful man overboard (MOB) manoeuvre and recovery drill (SPHERES).
 10. Anchoring and securing the boat at sea.

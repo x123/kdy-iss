@@ -19,7 +19,7 @@
 4. The main comes over. Sheet the headsail on the new leeward side and release
    the old headsail sheet.
 5. Ease out the mainsheet.
-6. Crew makes final adjusments to sail trim and rigs the preventer again (if
+6. Crew makes final adjustments to sail trim and rigs the preventer again (if
    using a preventer).
 
 # Heaving to

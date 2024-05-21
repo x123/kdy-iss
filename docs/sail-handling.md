@@ -128,7 +128,7 @@
    twisted at a strange angle which would impact the shape of the sail. An easy
    way to test this is to attach the tack shackle and first piston hank and
    pull the first piston hank upwards to see what the luff along bottom part of
-   the sail will look like when stretched).
+   the sail will look like when stretched.
 2. Begin attaching all the piston hanks to the forestay, starting from the
    bottom of the sail and working your way up.
 3. Open the headsail halyard jammer, slacken the headsail halyard sufficient to
@@ -168,7 +168,7 @@ have battens, while others do not.
 
 1. Bring the headsail onto the dock.
 2. Stretch the foot of the sail along the dock.
-3. Working togther, kneel on the sail and grab a fold of sail and place it on
+3. Working together, kneel on the sail and grab a fold of sail and place it on
    the foot.
 4. Keep the foot stretched and keep flaking the sail.
 5. Once the head is reached, fold the sail from the clew towards the luff.

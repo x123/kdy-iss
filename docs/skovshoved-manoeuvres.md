@@ -118,7 +118,7 @@
 - Take sails down in time to bring down the speed so the boat stops without or
   just little help of moorings, pushing from the pier, etc.
 - First take down the sail closest to the wind (in relation to the direction
-  when approching the box) – in middle and above middle winds that is done in
+  when approaching the box) – in middle and above middle winds that is done in
   the large eastern basin.
 - The mainsail can only go down when pointing at the wind.
 - The headsail can go down any wind direction, but it must land on the deck.
