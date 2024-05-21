@@ -21,7 +21,7 @@
    an open jammer in the cockpit.
 5. Keep a close eye on the mainsail as it's raised to ensure no fouling or
    jams. Stop if neccesary.
-6. Close the jammer and tighen the halyard using the cockpit winch. Watch the
+6. Close the jammer and tighten the halyard using the cockpit winch. Watch the
    luff of the sail to ensure correct tension and that the sail is set
    correctly.
 7. Tighen the vang, check the outhaul, and tidy the remainder of the halyard
@@ -51,7 +51,7 @@
    an open jammer in the cockpit.
 6. Keep a close eye on the mainsail as it's raised to ensure no fouling or
    jams. Stop if neccesary.
-7. Close the jammer and tighen the halyard using the cockpit winch. Watch the
+7. Close the jammer and tighten the halyard using the cockpit winch. Watch the
    luff of the sail to ensure correct tension and that the sail is set
    correctly.
 8. Tighen the vang, tension the new outhaul (using the reefing pennant), and
