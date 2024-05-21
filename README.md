@@ -40,6 +40,8 @@ needed:
 `markdownlint` is used for Markdown linting, with custom settings for specific
 rules (some disabled, some customized) defined in [flake.nix](flake.nix#L30).
 
+[`typos`](https://github.com/crate-ci/typos) is used for spell checking.
+
 ## Serving MkDocs locally
 
 `mkdocs serve`

@@ -43,6 +43,7 @@
               "MD041" = false;
             };
           };
+          # currently disabled
           mkdocs-linkcheck = {
             enable = false;
             pass_filenames = false;
@@ -53,6 +54,15 @@
             };
           };
           statix.enable = true;
+          typos = {
+            enable = true;
+            settings = {
+              ignored-words = [
+                "MIPDANIO"
+              ];
+              locale = "en";
+            };
+          };
         };
       };
     });
