@@ -28,7 +28,8 @@ overboard).
 
 ## Radio setup
 
-1. Turn the radio on by holding power button until the unit powers on.
+1. Turn the radio on by holding power button until the unit powers on and
+   ensure it has sufficient battery.
 2. If the keylock is on (indicated by the :material-key: icon showing up in the
    upper-right of the screen), disable it by holding the :material-key: button.
 3. Adjust the volume by using the **VOL/SQL** button to between 15 and 20.
@@ -121,10 +122,10 @@ An urgency call (PAN-PAN) is used when *"the calling station has very urgent
 information to transmit concerning the safety of a person, vessel, vehicle, or
 aircraft"*.
 
-### Making a urgency call
+### Making an urgency call
 
 1. Disable the keylock (if enabled) by holding the :material-key: button.
-2. Change to **CH 16** using the arrow keys.
+2. Change to **CH 16** using the **16/C** button (or use the arrow keys).
 3. Set radio to high power (using the **HI/LO** soft-key).
 4. Use the Push-to-Talk (PTT) button on the side to transmit.
 5. Proceed to transmit urgency message by voice.
@@ -175,7 +176,7 @@ distress call is MIPDANIO:
 ### Making a distress call
 
 1. Disable the keylock (if enabled) by holding the :material-key: button.
-2. Change to **CH 16** using the arrow keys.
+2. Change to **CH 16** using the **16/C** button (or use the arrow keys).
 3. Set radio to high power (using the **HI/LO** soft-key).
 4. Use the Push-to-Talk (PTT) button on the side to transmit.
 5. Proceed to transmit distress message by voice.
