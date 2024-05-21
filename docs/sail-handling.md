@@ -119,7 +119,7 @@
    tidy.
 3. Hold the folds in place using sail ties.
 4. Secure the mainsail cover to protect the sail.
-5. Coil mainsheet in a gasket coin and fasten to hang under the boom.
+5. Coil mainsheet in a gasket coil and fasten to hang under the boom.
 
 # Preparing the headsail
 
