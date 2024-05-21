@@ -80,7 +80,7 @@ broadcast for help), but you must identify yourself.
 
     When do you expect to arrive in Skovshoved?
 
-    OVER *(This is the end of my trasmission and a reply is expected)*
+    OVER *(This is the end of my transmission and a reply is expected)*
 
 ## Radio Check
 
@@ -92,7 +92,7 @@ The calling station would request a radio check like so:
 >
 > RADIO CHECK. *(Please comment on the strength and quality of my transmission.)*
 >
-> OVER *(This is the end of my trasmission and a reply is expected)*
+> OVER *(This is the end of my transmission and a reply is expected)*
 
 The called station, presumably hearing the calling station loud and clear in
 this example, would respond:
@@ -103,7 +103,7 @@ this example, would respond:
 >
 > RECEIVED LOUD AND CLEAR.
 >
-> OVER *(This is the end of my trasmission and a reply is expected)*
+> OVER *(This is the end of my transmission and a reply is expected)*
 
 Finally, the original calling station would reply (to close the loop and
 confirm both sides can both receive and transmit):
@@ -114,7 +114,7 @@ confirm both sides can both receive and transmit):
 >
 > Thank you.
 >
-> OUT *(This is the end of my transmission and no reply is expectd.)*
+> OUT *(This is the end of my transmission and no reply is expected.)*
 
 ## Urgency Call (PAN-PAN)
 

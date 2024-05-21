@@ -18,7 +18,7 @@ Sail training is postponed or replaced with shore training in the event of:
 - [DMI](https://www.dmi.dk) radar shows front with lightning strikes moving
   towards Oresund;
 - [DMI Readings](https://www.dmi.dk/malinger-seneste-24-timer/) show wind speed
-  over 14 m/sec (measured at Drogden Fyr, Hellerup, or Rungsted.;
+  over 14 m/sec (measured at Drogden Fyr, Hellerup, or Rungsted.);
 - The instructor (or skipper) decides that the weather conditions are too
   adverse for the crew or their own capability.
 
