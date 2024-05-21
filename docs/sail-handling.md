@@ -1,4 +1,6 @@
-# Preparing the mainsail
+# Mainsail
+
+## Preparing the mainsail
 
 1. Remove the sail cover. Fold and stow it.
 2. Attach the halyard to the head of the mainsail ensuring it is led correctly
@@ -10,7 +12,7 @@
 4. Ensure the vang, cunningham, and outhaul are slackened but do not have
    excessive slack.
 
-# Hoisting the mainsail
+## Hoisting the mainsail
 
 1. Remove all sail ties from the mainsail
 2. Bring the yacht head-to-wind.
@@ -28,7 +30,7 @@
    it inside.
 8. The helm can now bear away and begin sailing.
 
-# Reefing the mainsail
+## Reefing the mainsail
 
 !!! Tip
 
@@ -67,7 +69,7 @@
     be **absolutely certain** to remove the reefing tidy lines prior to shaking out
     the reef and raising the mainsail. Failure to do so will rip the mainsail.
 
-## Reefing Pennant Variation 1 - Fixed Eye
+### Reefing Pennant Variation 1 - Fixed Eye
 
 1. Open the reefing pennant jammer
 2. Haul sufficient slack in by pulling on the reefing pennant at the end of the
@@ -79,7 +81,7 @@
    below the reefing cringle
 6. Secure with a fixed bowline.
 
-## Reefing Pennant Variation 2 - Running Bowline
+### Reefing Pennant Variation 2 - Running Bowline
 
 1. Open the reefing pennant jammer
 2. Haul sufficient slack in by pulling on the reefing pennant at the end of the
@@ -94,7 +96,7 @@
 *Below: A diagram illustrating Reefing Pennant Variation 2*
 ![Reefing Pennant Variation 2 diagram](img/reefing_pennant_diagram.png)
 
-# Dropping the mainsail
+## Dropping the mainsail
 
 1. Flake the mainsail halyard so that it will run out clean without fouling.
 2. Take a few wraps of the mainsail halyard around the winch, with the jammer
@@ -110,7 +112,7 @@
 8. Tidy the mainsail around the boom using sail ties.
 9. Coil and tidy the mainsail halyard and mainsheet.
 
-# Stowing the mainsail
+## Stowing the mainsail
 
 1. Push all of the mainsail to one side of the boom (the leeward side being
    generally easier).
@@ -121,7 +123,9 @@
 4. Secure the mainsail cover to protect the sail.
 5. Coil mainsheet in a gasket coil and fasten to hang under the boom.
 
-# Preparing the headsail
+# Headsail
+
+## Preparing the headsail
 
 1. Attach the headsail tack shackle directly to the D ring at the foot of the
    forestay. Ensure that when the sail is raised the shackle will not be
@@ -139,7 +143,7 @@
    car) and *outside* the shrouds. Finish each sheet with a bowline to the clew
    of the headsail.
 
-# Hoisting the headsail
+## Hoisting the headsail
 
 The DS37 has a simpled hanked on headsail with either a jib or genoa. Some jibs
 have battens, while others do not.
@@ -153,7 +157,7 @@ have battens, while others do not.
    winch. Watch the luff of the headsail to get the correct tension.
 6. Tidy the remainder of the halyard and stow it inside.
 
-# Dropping the headsail
+## Dropping the headsail
 
 1. Flake the headsail halyard so that it will run out clean without fouling.
 2. Take a few wraps of the headsail halyard around the winch, with the jammer
@@ -164,7 +168,7 @@ have battens, while others do not.
 5. Keep tension on the headsail sheet to prevent the sail going into the water.
 6. Coil up and tidy the halyard and sheets.
 
-# Stowing the headsail
+## Stowing the headsail
 
 1. Bring the headsail onto the dock.
 2. Stretch the foot of the sail along the dock.
@@ -175,18 +179,20 @@ have battens, while others do not.
 6. Use a webbing sail ties to hold the bundle fast.
 7. Stow the headsail in the cabin on the starboard berth.
 
-# Rigging the spinnaker
+# Spinnaker
+
+## Rigging the spinnaker
 
 TODO
 
-# Hoisting the spinnnaker
+## Hoisting the spinnnaker
 
 TODO
 
-# Dousing the spinnaker
+## Dousing the spinnaker
 
 TODO
 
-# De-rigging and stowing the spinnaker
+## De-rigging and stowing the spinnaker
 
 TODO
