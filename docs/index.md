@@ -31,6 +31,7 @@ get around.
 - [Safety on the DS37](ds37-safety.md)
 - [Sail Handling](sail-handling.md)
 - [Manoeuvres](manoeuvres.md)
+- [Match Race Crew Positions](match-race-crew-positions.md)
 
 # Contributing
 
