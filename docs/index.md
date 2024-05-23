@@ -18,6 +18,7 @@ get around.
 - [Skovshoved Harbour Manoevres](skovshoved-manoeuvres.md)
 - [After-Sailing Checklist](after-sailing-checklist.md)
 - [Skipper Approval & Training](skipper-approval-training.md)
+- [Equipment Defects](equipment-defects.md)
 
 ## Safety
 
