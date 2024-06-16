@@ -226,11 +226,14 @@ have battens, while others do not.
 
 ## Rigging the spinnaker
 
-There are two main ways to rig the spinnaker, depending on whether you're doing matchracing or fleetracing.
-These differ whether the topmark is rounded clockwise (matchrace), or counter-clockwise (fleetrace).
-For matchracing, you're doing the spinnaker set on a port tack, for fleet racing on a starboard tack.
+There are two main ways to rig the spinnaker, depending on whether you're doing
+matchracing or fleetracing. These differ whether the topmark is rounded
+clockwise (matchrace), or counter-clockwise (fleetrace). For matchracing,
+you're doing the spinnaker set on a port tack, for fleet racing on a starboard
+tack.
 
-The following describes the setup for matchracing, for fleet racing the setup is mirrored (pole on starboard, sail on port).
+The following describes the setup for matchracing, for fleet racing the setup
+is mirrored (pole on starboard, sail on port).
 
 1. Prepare the spinnaker under deck. Open the hole on the bow deck, find the
    head of the spinnaker, and run to both clews.
@@ -240,19 +243,19 @@ The following describes the setup for matchracing, for fleet racing the setup is
    by the cockpit. In my opinion, it doesn't matter if the jib sheet crosses
    over or under (YMMV). Don't forget a Figure-eight knot at the end of these.
 3. Bring the pole on deck, place it on the port side inside of the side stays.
-   Rig the uphaul, and make sure that the pole is _under_ the port jib sheet,
+   Rig the uphaul, and make sure that the pole is *under* the port jib sheet,
    so that it can run freely (otherwise you'll have trouble getting
    out of the marina).
 4. Rig the spinnaker sheet. To easily get the headsail/spinnaker combination
    right, put the headsail on the port side. The spinnaker
    sheet goes on starboard from the block by the jib sheet winch to the back,
-   crosses _over_ itself on the way forward (the spinnaker flies up, and the
+   crosses *over* itself on the way forward (the spinnaker flies up, and the
    sheet flies up as well), goes through the starboard barber hauler,
    passes the starboard shrouds outside and goes to the spinnaker
    (starboard clew). Secure with a bowline, or another know of your choice.
 5. Rig the guy. This mostly follows the spinnaker sheet: Go through the block
    by the port jib sheet winch, to the back of the boat,
-   cross _over_ itself, through the port barber hauler, outside of the shrouds,
+   cross *over* itself, through the port barber hauler, outside of the shrouds,
    around the front stay (outside of the sail!), and to the port clew of the
    spinnaker. Ensure that the guy runs outside of the port jib sheet.
 6. Rig the spinnaker halyard. Make sure the halyard runs free (it tends to
@@ -269,7 +272,6 @@ The following describes the setup for matchracing, for fleet racing the setup is
    You can also factor in crew knowledge and wind conditions, personally I'd
    opt for knots in light-wind conditions, and no knots outside of racing in
    heavier wind.
-
 
 ## Hoisting the spinnnaker
 
@@ -305,7 +307,6 @@ and bowman.
    or from the trimmer, or to grind the spinnaker winches in close communication
    with the trimmer. Either setup is possible, and depends on personal
    preferences and skill level of trimmer and tailor.
-
 
 ## Gybing the spinnaker
 
@@ -352,7 +353,6 @@ We're assuming that we're on a port tack and gybe to a starboard tack.
    and trim it to course, by pulling in the guy, and easing the sheet.
    Tailor releases the sheet barber hauler in communication with the trimmer.
 12. (skipper) Sets a broad reach to beam reach course.
-
 
 ## Dousing the spinnaker
 
