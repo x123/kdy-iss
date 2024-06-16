@@ -232,7 +232,7 @@ For matchracing, you're doing the spinnaker set on a port tack, for fleet racing
 
 The following describes the setup for matchracing, for fleet racing the setup is mirrored (pole on starboard, sail on port).
 
-1. Prepare the spinnaker under deck. Open the hole in the frontdeck, find the
+1. Prepare the spinnaker under deck. Open the hole on the bow deck, find the
    head of the spinnaker, and run to both clews.
    This is to ensure that the spinnaker is not twisted.
 2. Rig the barber haulers. They go through the small blocks by the side stays,
@@ -244,15 +244,15 @@ The following describes the setup for matchracing, for fleet racing the setup is
    so that it can run freely (otherwise you'll have trouble getting
    out of the marina).
 4. Rig the spinnaker sheet. To easily get the headsail/spinnaker combination
-   right, put the headsail on the port side of the frontdeck. The spinnaker
+   right, put the headsail on the port side. The spinnaker
    sheet goes on starboard from the block by the jib sheet winch to the back,
    crosses _over_ itself on the way forward (the spinnaker flies up, and the
    sheet flies up as well), goes through the starboard barber hauler,
-   passes the starboard sidestay outside and goes to the spinnaker
+   passes the starboard shrouds outside and goes to the spinnaker
    (starboard clew). Secure with a bowline, or another know of your choice.
 5. Rig the guy. This mostly follows the spinnaker sheet: Go through the block
    by the port jib sheet winch, to the back of the boat,
-   cross _over_ itself, through the port barber hauler, outside of the sidestay,
+   cross _over_ itself, through the port barber hauler, outside of the shrouds,
    around the front stay (outside of the sail!), and to the port clew of the
    spinnaker. Ensure that the guy runs outside of the port jib sheet.
 6. Rig the spinnaker halyard. Make sure the halyard runs free (it tends to
@@ -277,31 +277,31 @@ You can watch [this video](https://www.youtube.com/watch?v=F80SNSKP1YU)
 (in danish) for visuals of the process.
 This is again describing a matchrace-style set on a port tack, and assumes
 a standard racing crew setup with positions Skipper, mainsail, trimmer, tailor
-and frontdecker.
+and bowman.
 
 1. Make sure that the spinnaker sheets are on the winches in the cockpit.
-2. (Frontdecker) Put the guy into the front hook of the pole. Ensure that you
+2. (Bowman) Put the guy into the front hook of the pole. Ensure that you
    take the line from the port side, not the starboard side that goes into the
    hole! Take out the head and the clews of the sail onto the deck
    ("preloading the spinnaker").
-3. (Tailor, Frontdecker) Hoist the pole until it's horizontal. The tailor pulls
-   the line in the cockpit (no winch needed!), the frontdecker clicks it in
+3. (Tailor, Bowman) Hoist the pole until it's horizontal. The tailor pulls
+   the line in the cockpit (no winch needed!), the bowman clicks it in
    the mast (racing: Set a mark on the uphaul for how far you need to pull it).
 4. (trimmer) opens the barber hauler on the starboard side.
 5. (all hands) Hoisting the spinnaker: Skipper holds a downwind course,
-   frontdecker is at the mast to pull the halyard, tailor pulls the halyard
+   bowman is at the mast to pull the halyard, tailor pulls the halyard
    at the pit. It is not put on a winch, but pumped to get it to the top.
-   Once the spinnaker is up, frontdecker announces "top".
+   Once the spinnaker is up, bowman announces "top".
    The trimmer gets the sheet, mainsail gets the guy. Both pull these lines
    appropriately while the spinnaker is raised, keeping the sail leewards
    while it's being raised. When it's up, the guy is pulled in, while the sheet
    is eased to rotate the sail towards port (aim for approximately keeping
    the pole and the boom in a line). Once the sail is standing, the trimmer
    takes over the guy from the mainsail.
-6. (frontdecker, tailor) Take down the foresail together, tailor opens the
-   cleat, frontdecker ensures it doesn't fall in the water and secures it on
+6. (Bowman, Tailor) Take down the foresail together, tailor opens the
+   cleat, bowman ensures it doesn't fall in the water and secures it on
    deck with a sailtie.
-7. (tailor) The tailor is now free to either take over the guy from mainsail
+7. (Tailor) The tailor is now free to either take over the guy from mainsail
    or from the trimmer, or to grind the spinnaker winches in close communication
    with the trimmer. Either setup is possible, and depends on personal
    preferences and skill level of trimmer and tailor.
@@ -316,16 +316,16 @@ tailor switch lines.
 
 We're assuming that we're on a port tack and gybe to a starboard tack.
 
-1. (skipper) The skipper holds a dead downwind course, take in the mainsail
+1. (Skipper) The skipper holds a dead downwind course, take in the mainsail
    if required for safety.
-2. (trimmer, tailor) The spinnaker is trimmed for a downwind course by rotating
+2. (Trimmer, Tailor) The spinnaker is trimmed for a downwind course by rotating
    it to the port side  (guy in, sheet eased). This is important even in racing,
    where you might not hold a dead downwind course yet.
-3. (tailor, trimmer) The tailor pulls in the starboard barber hauler,
+3. (Tailor, Trimmer) The tailor pulls in the starboard barber hauler,
    in communication with the trimmer. This stabilizes the sail, but might
    require the trimmer to ease the sheet a bit to offset the shortening of
    the line by the barber hauler.
-4. (frontdecker) The frontdecker now unhooks the pole. It is important here to
+4. (Bowman) The bowman now unhooks the pole. It is important here to
    unhook the sheet from the pole ASAP, as otherwise moving around the pole
    will trim the sail in unintended ways, and might lead to the sail collapsing.
    If you raised the pole with the port jib sheet hanging over it, now is the
@@ -333,21 +333,21 @@ We're assuming that we're on a port tack and gybe to a starboard tack.
 5. (skipper, trimmer, tailor, mainsail) Hold the boat stable on a downwind
    course and the spinnaker flying. If the spinnaker collapses before the gybe
    is completed, gybe back, get it flying, and start over.
-6. (frontdecker) Cleat in the starboard spinnaker sheet into the front of the
+6. (Bowman) Cleat in the starboard spinnaker sheet into the front of the
    pole. You ought to be able to grab it easily if the starboard barber hauler
    is tight.
 7. (skipper, mainsail) Gybe the mainsail, be sure to let it out quickly,
    otherwise the boat will point upwind, making gybing the spinnaker very hard.
-8. (frontdecker) Stand stable with the back to the mast, push the pole forward
-   and out to the frontstay. Don't push to the side, you'll not have the
+8. (Bowman) Stand stable with the back to the mast, push the pole forward
+   and out to the forestay. Don't push to the side, you'll not have the
    strength to do that. Click the pole into the mast, and announce "On".
-9. (trimmer, tailor) Watch the frontdecker carefully. Follow with the guy
-   and ease it enough so that the frontdecker can get the pole all the way out.
+9. (trimmer, tailor) Watch the bowman carefully. Follow with the guy
+   and ease it enough so that the bowman can get the pole all the way out.
    Be very careful when you pull the guy in while the pole is
    not clicked in the mast yet: It's very easy for you to make the job of the
-   frontdecker impossible.
+   bowman impossible.
 10. (skipper) Keep the dead downwind course until the pole is in. If you go up
-   too early, your frontdecker will not have the strength to put in the pole.
+   too early, your bowman will not have the strength to put in the pole.
 11. (trimmer, tailor) Once the pole is in, rotate over the spinnaker,
    and trim it to course, by pulling in the guy, and easing the sheet.
    Tailor releases the sheet barber hauler in communication with the trimmer.
