@@ -232,27 +232,32 @@ clockwise (matchrace), or counter-clockwise (fleetrace). For matchracing,
 you're doing the spinnaker set on a port tack, for fleet racing on a starboard
 tack.
 
-The following describes the setup for matchracing, for fleet racing the setup
-is mirrored (pole on starboard, sail on port).
+The following describes the setup for matchracing; for fleet racing the setup
+is mirrored (i.e, pole on starboard, sail on port).
 
-1. Prepare the spinnaker under deck. Open the hole on the bow deck, find the
-   head of the spinnaker, and run to both clews.
-   This is to ensure that the spinnaker is not twisted.
+1. Prepare the spinnaker below. Open the forward hatch on the bow deck, find
+   the head of the spinnaker, and run to both clews. This is to ensure that the
+   spinnaker is not twisted.
 2. Rig the barber haulers. They go through the small blocks by the side stays,
-   and through the small cleats
-   by the cockpit. In my opinion, it doesn't matter if the jib sheet crosses
-   over or under (YMMV). Don't forget a Figure-eight knot at the end of these.
-3. Bring the pole on deck, place it on the port side inside of the side stays.
-   Rig the uphaul, and make sure that the pole is *under* the port jib sheet,
-   so that it can run freely (otherwise you'll have trouble getting
-   out of the marina).
+   and through the small cleats by the cockpit. It should not matter if the jib
+   esheet crosses over or under (but this is often a personal preference). Don't
+   forget a figure-of-eight stopper knot at the end of the barber hauler lines.
+3. Bring the spinnaker pole on deck, place it on the port side inside of the
+   side stays. Rig the uphaul.
+
+    !!! Important
+
+        When rigging the spinnaker pole uphaul, make sure that the pole is
+        *under* the port jib sheet, so that it can run freely (otherwise you'll
+        have trouble getting out of the marina).
+
 4. Rig the spinnaker sheet. To easily get the headsail/spinnaker combination
-   right, put the headsail on the port side. The spinnaker
-   sheet goes on starboard from the block by the jib sheet winch to the back,
-   crosses *over* itself on the way forward (the spinnaker flies up, and the
-   sheet flies up as well), goes through the starboard barber hauler,
-   passes the starboard shrouds outside and goes to the spinnaker
-   (starboard clew). Secure with a bowline, or another know of your choice.
+   right, put the headsail on the port side. The spinnaker sheet goes on
+   starboard from the block by the jib sheet winch to the back, crosses *over*
+   itself on the way forward (the spinnaker flies up, and the sheet flies up as
+   well), goes through the starboard barber hauler, passes the starboard shrouds
+   outside and goes to the spinnaker (starboard clew). Secure with a bowline, or
+   another knot of your choice.
 5. Rig the guy. This mostly follows the spinnaker sheet: Go through the block
    by the port jib sheet winch, to the back of the boat,
    cross *over* itself, through the port barber hauler, outside of the shrouds,
@@ -261,17 +266,20 @@ is mirrored (pole on starboard, sail on port).
 6. Rig the spinnaker halyard. Make sure the halyard runs free (it tends to
    entangle itself around the mast or stays), and mount it to the head of the
    spinnaker, coming from starboard.
-7. Decide whether you want Figure Eight knots in your spinnaker sheets or not.
-   If you're having knots in, you're not losing the spinnaker, but it might
-   start pulling you in directions you don't want to go to, and you might be
-   unable to control it. If you don't have knots, you'll lose the spinnaker
-   (it'll not be pulling you anywhere), but continuing to sail with it will be
-   difficult.
-   Therefore, racers tend to opt for knots, and cruisers as well as beginners
-   on the spinnakers should not put knots in.
-   You can also factor in crew knowledge and wind conditions, personally I'd
-   opt for knots in light-wind conditions, and no knots outside of racing in
-   heavier wind.
+7. Decide whether you want figure-of-eight stopper knots in your spinnaker
+   sheets or not.
+
+    !!! Note
+
+        If you choose to have knots at the end of the spinnaker sheets, it will
+        not be possible to fully depower the spinnaker, and it may start
+        pulling you in directions you don't want to go. If you don't have
+        knots, you'll lose the spinnaker (it'll not be pulling you anywhere),
+        but continuing to sail with it will be difficult. Racers tend to opt
+        for knots, and cruisers as well as beginners on the spinnakers should
+        not put knots in. You can also factor in crew knowledge and wind
+        conditions, personally I'd opt for knots in light-wind conditions, and
+        no knots outside of racing in heavier wind.
 
 ## Hoisting the spinnnaker
 
