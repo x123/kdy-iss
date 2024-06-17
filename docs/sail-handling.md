@@ -289,8 +289,10 @@ and bowman.
 3. (Tailor, Bowman) Hoist the pole until it's horizontal. The tailor pulls
    the line in the cockpit (no winch needed!), the bowman clicks it in
    the mast (racing: Set a mark on the uphaul for how far you need to pull it).
-4. (trimmer) opens the barber hauler on the starboard side.
-5. (all hands) Hoisting the spinnaker: Skipper holds a downwind course,
+   The port jib sheet has to run free if the pole is hoisted under the jib
+   sheet.
+4. (Trimmer) opens the barber hauler on the starboard side.
+5. (Everybody) Hoisting the spinnaker: Skipper holds a downwind course,
    bowman is at the mast to pull the halyard, tailor pulls the halyard
    at the pit. It is not put on a winch, but pumped to get it to the top.
    Once the spinnaker is up, bowman announces "top".
@@ -337,27 +339,71 @@ We're assuming that we're on a port tack and gybe to a starboard tack.
 6. (Bowman) Cleat in the starboard spinnaker sheet into the front of the
    pole. You ought to be able to grab it easily if the starboard barber hauler
    is tight.
-7. (skipper, mainsail) Gybe the mainsail, be sure to let it out quickly,
+7. (Skipper, Mainsail) Gybe the mainsail, be sure to let it out quickly,
    otherwise the boat will point upwind, making gybing the spinnaker very hard.
 8. (Bowman) Stand stable with the back to the mast, push the pole forward
    and out to the forestay. Don't push to the side, you'll not have the
    strength to do that. Click the pole into the mast, and announce "On".
-9. (trimmer, tailor) Watch the bowman carefully. Follow with the guy
+9. (Trimmer, Tailor) Watch the bowman carefully. Follow with the guy
    and ease it enough so that the bowman can get the pole all the way out.
    Be very careful when you pull the guy in while the pole is
    not clicked in the mast yet: It's very easy for you to make the job of the
    bowman impossible.
-10. (skipper) Keep the dead downwind course until the pole is in. If you go up
+10. (Skipper) Keep the dead downwind course until the pole is in. If you go up
    too early, your bowman will not have the strength to put in the pole.
-11. (trimmer, tailor) Once the pole is in, rotate over the spinnaker,
+11. (Trimmer, Tailor) Once the pole is in, rotate over the spinnaker,
    and trim it to course, by pulling in the guy, and easing the sheet.
    Tailor releases the sheet barber hauler in communication with the trimmer.
-12. (skipper) Sets a broad reach to beam reach course.
+12. (Skipper) Sets a broad reach to beam reach course.
 
-## Dousing the spinnaker
+## Taking down the spinnaker
 
-TODO
+The following description assumes that you have followed the previous instructions, done
+an uneven number of gybes (so you're on a starboard tack),
+and want to be able to hoist the spinnaker again on a port tack.
+This is a standard matchrace situation.
+
+If you rather want to take the spinnaker down on the side the sail is on,
+you need to adapt the side where you hoist the headsail, have the trimmer
+throw off the guy instead of the sheet to collapse the spinnaker, and the
+bowman has to pull the spinnaker under the headsail into the hole.
+Otherwise, the description still applies.
+
+Note that you can take down the spinnaker on both sides, and an experienced
+crew benefits from training takedowns on both sides.
+
+1. (Mainsail, Bowman) Mainsail pulls the port jib sheet tight, and locks it.
+   The bowman helps to move the headsail over to port if needed.
+   This requires that during the gybe, the port jib sheet was correctly
+   removed from the pole.
+2. (Bowman, Tailor) Hoist the headsail. The bowman pulls at the mast,
+   the tailor at the pit. There is no winch available for hoisting,
+   so the halyard is pumped at the mast.
+3. (Skipper) Go on a dead downwind course (alternative for racing:
+   Send the mainsail as "human pole" to either the shrouds or the frontstay,
+   depending on course).
+4. (Trimmer, Tailor) Trim the spinnaker to the new course.
+4. (Bowman, Tailor) Take down the pole by unlocking it on both sides,
+   the tailor will help operate the jammer, and receive the pole.
+   Store it under the port jib sheet again. Careful when pulling it back
+   to not hit any crew!
+5. (Bowman, Tailor, Trimmer) The Bowman grabs the foot of the spinnaker by
+   collecting the guy, which is easily accessible, as the barber hauler is
+   pulled tight. The trimmer releases the sheet, which should collapse the
+   spinnaker. The tailor opens the halyard, and controls the downward speed.
+   Not too fast to drop the sail in the water, but also not too slow, so that
+   the bowman pulls against the sail. The trimmer also releases the guy, so
+   that nothing is keeping the spinnaker up. The bowman collects the sail
+   from the starboard side of the boat.
+6. (Skipper) The boat is now ready to go upwind.
+7. (Trimmer) Pull in the port barber hauler on the next port tack.
+8. (Bowman) Goes down and checks the spinnaker on the upwind leg, so that
+   it's ready to be hoisted again.
 
 ## De-rigging and stowing the spinnaker
 
-TODO
+1. Undo all the lines, store them away.
+2. Close the hole before someone falls into it.
+3. The spinnaker should be checked again, collecting the head and clews.
+   They should be separated in the storage bag.
+4. The spinnaker is stored in the club house, not on the boat.
