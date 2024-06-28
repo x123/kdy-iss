@@ -17,9 +17,11 @@ jobs:
           git config user.email '${{github.actor}}'@users.noreply.github.com
       - uses: DeterminateSystems/nix-installer-action@main 
       - uses: DeterminateSystems/magic-nix-cache-action@main 
-      - uses: rrbutani/use-nix-shell-action@v1
-        with:
-          devShell: .#default # this is the default
+      # - uses: rrbutani/use-nix-shell-action@v1
+      #   with:
+      #     devShell: .#default # this is the default
       # - run: nix -L flake check 
       - name: Deploy gh-pages 
-        run: mkdocs gh-deploy
+        run: |
+          nix develop --command \
+            mkdocs gh-deploy
