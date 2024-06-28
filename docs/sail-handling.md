@@ -410,7 +410,7 @@ crew benefits from training takedowns on both sides.
 
 ## De-rigging and stowing the spinnaker
 
-1. Undo all the lines, stow them away.
+1. Undo all the lines and stow them away.
 2. Close the hole before someone falls into it.
 3. The spinnaker should be checked again, collecting the head and clews.
    They should be separated in the storage bag.
