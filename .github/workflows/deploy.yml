@@ -26,4 +26,4 @@ jobs:
       - name: Deploy gh-pages 
         run: |
           nix develop --command \
-            mkdocs gh-deploy
+            mkdocs gh-deploy --force
