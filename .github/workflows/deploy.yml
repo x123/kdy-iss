@@ -1,0 +1,24 @@
+name: "Deploy KDY Docs"
+on:
+  workflow_run:
+    workflows: ["Docs Check"]
+    types: [completed]
+    branches:
+      - master
+      - main
+jobs:
+  deploy-kdy-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oleksiyrudenko/gha-git-credentials@v2-latest
+        with:
+          token: '${{ secrets.GITHUB_TOKEN }}'
+      - uses: DeterminateSystems/nix-installer-action@main 
+      - uses: DeterminateSystems/magic-nix-cache-action@main 
+      - uses: rrbutani/use-nix-shell-action@v1
+        with:
+          devShell: .#default # this is the default
+      # - run: nix -L flake check 
+      - name: Deploy gh-pages 
+        run: mkdocs gh-deploy
