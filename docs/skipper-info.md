@@ -36,7 +36,7 @@ Sail training is postponed or replaced with shore training in the event of:
 # KDY Fair Weather Skippers
 
 - Can take out the boat type they are approved for in up to moderate conditions
-  (Beaufort 4, <8ms wind) from their home harbour with at least one other
+  (Beaufort 4, <8m/s wind) from their home harbour with at least one other
   experienced crew member (who has completed basic skills training at KDY on
   this boat type or has competent crew or skipper certificate) on board.
 - Are covered by KDY Club insurance for 3rd party liability with an excess of

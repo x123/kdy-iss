@@ -13,7 +13,7 @@ no different. Always follow *"one hand for the boat, one hand for yourself"* as
 you move around on the yacht. Stay low, move methodically, and avoid rushing,
 running, or jumping. Being an older yacht the non-skid on the deck is not as
 aggressive and "grippy" as on a newer vessel, so take care. Quality sailing
-boots or shoes that provide adequate grip are important, but need not
+boots or shoes that provide adequate grip are important, but need not be
 expensive. Avoid stepping on lines or sails, as both are common causes of slips
 or falls. Bad enough if you fall and hurt yourself, but worse to fall
 overboard.
