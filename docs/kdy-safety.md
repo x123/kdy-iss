@@ -21,9 +21,9 @@ Staying onboard and preventing falls is critical on any yacht. Always follow
 *"one hand for the boat, one hand for yourself"* as you move around on the
 yacht. Stay low, move methodically, and avoid rushing, running, or jumping.
 Quality sailing boots or shoes that provide adequate grip are important, but
-need not expensive. Avoid stepping on lines or sails, as both are common causes
-of slips or falls. Bad enough if you fall and hurt yourself, but worse to fall
-overboard.
+need not be expensive. Avoid stepping on lines or sails, as both are common
+causes of slips or falls. Bad enough if you fall and hurt yourself, but worse
+to fall overboard.
 
 !!! note
     The majority of man overboard incidents happen in the harbor. Stay
