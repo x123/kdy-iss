@@ -40,7 +40,9 @@ nix flake check
 If you're not using nix, you can use the [Determinate Systems
 nix-installer](https://github.com/DeterminateSystems/nix-installer)
 
-### Other methods
+## Other methods
+
+### Using Python
 
 To serve the documentation locally only the following python packages are
 needed:
@@ -61,3 +63,13 @@ rules (some disabled, some customized) defined in [flake.nix](flake.nix#L30).
 
 - Make sure to run `markdownlint` with the appropriate rules first.
 - Submit a PR.
+
+### Using R studio and Github Desktop 
+
+In case you want to use R Studio and Github Desktop, you can use the following steps:
+1. Clone the repository using Github Desktop. (You can use the "<> Code" button on the github repository website to do that directly)
+2. Create a branch, by forking the repository using Github desktop or command line
+3. Open the repository in R Studio. 
+4. Modify the corresponding markdown. 
+5. Submit the changes (PR) to the main repository using Github Desktop.
+

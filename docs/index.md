@@ -34,6 +34,10 @@ get around.
 - [Manoeuvres](manoeuvres.md)
 - [Match Race Crew Positions](match-race-crew-positions.md)
 
+## Seasons 
+
+- [2025 Sailing Season](2025-season.md)
+
 # Contributing
 
 Contributions to these documents are welcome and entirely volunteer-driven.
