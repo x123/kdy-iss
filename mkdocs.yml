@@ -46,6 +46,8 @@ markdown_extensions:
       baselevel: 2
 nav:
   - 'Getting Started': index.md
+  - 'Seasons':
+    - '2025 Sailing Season': seasons/2025.md
   - 'Skippers':
     - 'Information for Skippers': skipper-info.md
     - 'Pre-Departure Checklist': pre-departure-checklist.md
@@ -53,8 +55,6 @@ nav:
     - 'After-Sailing Checklist': after-sailing-checklist.md
     - 'Skipper Approval & Training': skipper-approval-training.md
     - 'Equipment Defects': equipment-defects.md
-  - 'Seasons':
-    - '2025 Sailing Season': seasons/2025.md
   - 'Safety':
     - 'In Case of Injury': in-case-of-injury.md
     - 'General Safety Information': kdy-safety.md
