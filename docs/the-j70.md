@@ -2,7 +2,8 @@
 
 The J/70 is a revolutionary one-design sailboat that has taken the sailing
 world by storm since its introduction in 2012. Designed by J/Boats, the J/70
-combines speed, simplicity, and versatility, making it a favorite among sailors of all skill levels.
+combines speed, simplicity, and versatility, making it a favorite among
+sailors of all skill levels.
 
 ## Specifications
 
