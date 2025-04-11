@@ -62,6 +62,8 @@ nav:
   - 'Harbours':
     - 'Skovshoved Havn':
       - 'Skovshoved Facilities': skovshoved.md
+    - 'Rungsted Havn':
+      - 'Rungsted Facilities': rungsted.md
   - 'DS37 Manual':
     - 'About the DS37': the-ds37.md
     - 'Safety on the DS37': ds37-safety.md
@@ -69,3 +71,9 @@ nav:
     - 'Manoeuvres': manoeuvres.md
     - 'Advanced Topics':
       - 'Match Race Crew Positions': match-race-crew-positions.md
+  - 'J/70 Manual':
+    - 'About the J/70': the-j70.md
+  - 'J80 Manual':
+    - 'About the J/80': the-j80.md
+  - 'RIB Manual':
+    - 'About the RIB': the-rib.md
