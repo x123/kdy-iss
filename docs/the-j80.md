@@ -1,6 +1,9 @@
 # The J/80
 
-The J/80 is a legendary one-design sailboat that has been a favorite among sailors since its debut in 1993. Designed by J/Boats, the J/80 is renowned for its stability, performance, and ease of use, making it an ideal choice for both competitive racing and recreational sailing.
+The J/80 is a legendary one-design sailboat that has been a favorite among
+sailors since its debut in 1993. Designed by J/Boats, the J/80 is renowned
+for its stability, performance, and ease of use, making it an ideal choice
+for both competitive racing and recreational sailing.
 
 ## Specifications
 
