@@ -44,7 +44,3 @@ This wiki is a living document, built by the instructor team and continuously im
 ## Seasons
 
 - [2025 Sailing Season](seasons/2025.md)
-
-# Contributing
-
-Contributions to these documents are welcome and entirely volunteer-driven.
