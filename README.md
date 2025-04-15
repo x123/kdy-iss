@@ -64,11 +64,16 @@ rules (some disabled, some customized) defined in [flake.nix](flake.nix#L30).
 - Make sure to run `markdownlint` with the appropriate rules first.
 - Submit a PR.
 
-### Using R studio and Github Desktop
+### Using Github Desktop and an editor
 
-In case you want to use R Studio and Github Desktop, you can use the following steps:
-1. Clone the repository using Github Desktop. (You can use the "<> Code" button on the github repository website to do that directly)
-2. Create a branch, by forking the repository using Github desktop or command line
-3. Open the repository in R Studio.
+To make contributions using Github Desktop and an editor of your choice (e.g.,
+VSCode, SublimeText, R Studio editor, etc.):
+
+1. Clone the repository using Github Desktop. (You can use the "<> Code" button
+   on the github repository website to do that directly)
+2. Create a branch, by forking the repository using Github desktop, website, or
+   command line.
+3. Open the repository in your editor of choice.
 4. Modify the corresponding markdown.
-5. Submit the changes (PR) to the main repository using Github Desktop.
+5. Submit the changes (PR) to the main repository using Github Desktop or
+   command line.
