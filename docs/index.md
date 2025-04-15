@@ -14,7 +14,7 @@ How to Use This Wiki
 Use the navigation menu on the left (or tap the ☰ icon at the top-left on mobile) to explore different sections. Pages are grouped by topic to help you quickly find what you're looking for. At the bottom of each page, you’ll also find navigation links to move through the content in sequence.
 
 Contributing & Feedback
-This wiki is a living document, built by the instructor team and continuously improved through input from everyone at the school. If you spot something outdated, unclear, or missing, please reach out to the wiki maintainers or contribute directly if you have editing access.
+This wiki is a living document, built by the instructor team and continuously improved through input from everyone at the school. If you spot something outdated, unclear, or missing, please reach out to the wiki maintainers or contribute directly by submitting an [Issue](https://github.com/x123/kdy-iss/issues) or [Pull Request](https://github.com/x123/kdy-iss/pulls) in GitHub or contact an instructor.
 
 # Quick Start
 
@@ -44,9 +44,7 @@ This wiki is a living document, built by the instructor team and continuously im
 ## Seasons
 
 - [2025 Sailing Season](seasons/2025.md)
+
 # Contributing
 
 Contributions to these documents are welcome and entirely volunteer-driven.
-Please submit an [Issue](https://github.com/x123/kdy-iss/issues) or [Pull
-Request](https://github.com/x123/kdy-iss/pulls) in GitHub or contact an
-instructor.
