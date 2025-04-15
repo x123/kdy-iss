@@ -1,13 +1,20 @@
-# About this site
+Purpose of This Site
+This wiki serves as the central hub for all documentation related to the KDY International Sailing School. It is currently designed to support instructors and skippers by providing practical information about sailing procedures, harbor logistics, safety protocols, and teaching practices.
 
-This document repository is intended to be the central home for KDY
-International Sailing School documentation.
+Whether you're preparing to teach a session, planning to sail a DS37, or looking to refresh your knowledge on school routines, you'll find what you need right here.
 
-# Getting Around
+Who This Is For
+Instructors & Skippers: You’ll find guidance on the sailing area, weather criteria, checklists, DS37 school boats, harbor maneuvers, and KDY practices.
 
-Use the navigation menu on the left, the :material-menu: icon at the top left
-on mobile, and the navigation links at the bottom of the page in the footer to
-get around.
+Students: Browse general information about the marina and boats. 
+
+This site is open to all members of the KDY International Sailing School community. While some content is technical or tailored to instructors, we hope to grow this wiki to eventually support all levels of sailors.
+
+How to Use This Wiki
+Use the navigation menu on the left (or tap the ☰ icon at the top-left on mobile) to explore different sections. Pages are grouped by topic to help you quickly find what you're looking for. At the bottom of each page, you’ll also find navigation links to move through the content in sequence.
+
+Contributing & Feedback
+This wiki is a living document, built by the instructor team and continuously improved through input from everyone at the school. If you spot something outdated, unclear, or missing, please reach out to the wiki maintainers or contribute directly if you have editing access.
 
 # Quick Start
 
