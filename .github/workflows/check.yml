@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: DeterminateSystems/nix-installer-action@main 
-      - uses: DeterminateSystems/magic-nix-cache-action@main 
+      - uses: DeterminateSystems/flakehub-cache-action@main 
       - name: Docs linters check
         run: nix -L flake check 
