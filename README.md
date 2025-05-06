@@ -69,8 +69,7 @@ rules (some disabled, some customized) defined in [flake.nix](flake.nix#L30).
 
 ## Contributing
 
-- Make sure to run `markdownlint` with the appropriate rules first.
-- Submit a PR.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to contribute.
 
 ### Using Github Desktop and an editor
 
