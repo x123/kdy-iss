@@ -10,6 +10,9 @@ theme:
     - navigation.top
     - toc.follow
     #- toc.integrate
+    - search.highlight
+    - search.share
+    - search.suggest
   logo: img/kdy-logo.png
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -44,6 +47,9 @@ markdown_extensions:
   - toc:
       permalink: "#"
       baselevel: 2
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|\.(?!\d)|&[lg]t;'
 nav:
   - 'Getting Started': index.md
   - 'Seasons':
