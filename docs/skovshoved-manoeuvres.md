@@ -11,15 +11,11 @@
 
 # Going Out (General Guidance)
 
-- Choose between hoisting at a pole or letting go cowboy-style. Cowboy-style
-  allows less time for stopping and explaining if any.
-- In western winds, hoisting at pole or cowboy-style are both fairly simple.
+- In western winds, hoisting at the pole is fairly simple.
 - In eastern winds over 15 knots, going out is more tricky. Turning the boat
-  can be very hard work and the cowboy-style needs a very good push to work.
+  can be very hard work.
 - Main can only go up when pointing head-to-wind
-- Headsail can go up any wind direction, but doing cowboy-style with the wind
-  in front of you the boat must not be moving (too much) backwards when
-  hoisting, because the sail will push it further backwards.
+- Headsail can go up/down in any wind direction.
 - When holding the boat with a line – always put the line around something
   solid: winch, pole, clamp...
 
@@ -60,57 +56,6 @@
 - Hoist headsail and tack your way out.
 
 ![Hoisting sails at a pole - Skovshoved Havn (Easterly Winds) 4](img/going-out-pole-easterly-4.png)
-
-## Hoisting cowboy-style (Southerly winds)
-
-![Hoisting cowboy-style - Skovshoved Havn (Southerly winds) 1](img/going-out-start.png)
-
-- Rig boat
-- Dedicate crew to moorings, halyards, mast and sheets.
-- Explain manoeuvre
-- Push boat backwards with enough power to get to the other side of the basin
-  (difficult when wind easterly > 15 knots, wait for a lull if the wind is
-  gusty)
-- When clear of the box; steer the aft to south
-
-![Hoisting cowboy-style - Skovshoved Havn (Southerly winds) 2](img/going-out-cowboy-southerly-2.png)
-
-- Hoist headsail, trim and accumulate speed
-- Tack and get speed
-- If you lack speed make a roll by moving crew from leeward to windward
-  simultaneously
-- Head up and point at wind and hoist main
-
-![Hoisting cowboy-style - Skovshoved Havn (Southerly winds) 3](img/going-out-cowboy-southerly-3.png)
-
-- Bear away and tack your way out
-
-  ![Hoisting cowboy-style - Skovshoved Havn (Southerly winds) 4](img/going-out-cowboy-southerly-4.png)
-
-## Hoisting cowboy-style (Northerly winds)
-
-![Hoisting cowboy-style - Skovshoved Havn - (Northerly winds) 1](img/going-out-start.png)
-
-- Rig boat.
-- Dedicate crew to moorings, halyards, mast and sheets.
-- Explain manoeuvre.
-- Push boat backwards enough to get to the other side of the basin (difficult
-  when wind easterly and > 15 knots, wait for a lull if the wind is gusty)
-- When clear of the box; steer the aft to north.
-
-![Hoisting cowboy-style - Skovshoved Havn (Northerly winds) 2](img/going-out-cowboy-northerly-2.png)
-
-- Hoist headsail, trim and accumulate speed.
-
-![Hoisting cowboy-style - Skovshoved Havn (Northerly winds) 3](img/going-out-cowboy-northerly-3.png)
-
-- If you lack speed make a roll by moving crew from leeward to windward
-  simultaneously.
-- Head up and point at wind and hoist main.
-
-![Hoisting cowboy-style - Skovshoved Havn (Northerly winds0 4](img/going-out-cowboy-northerly-4.png)
-
-- Bear away and tack your way out.
 
 # Going In (General Guidance)
 
