@@ -7,6 +7,14 @@ Documentation](https://x123.github.io/kdy-iss/) using MkDocs.
 
 [![Deploy KDY Docs](https://github.com/x123/kdy-iss/actions/workflows/deploy.yml/badge.svg)](https://github.com/x123/kdy-iss/actions/workflows/deploy.yml)
 
+## Quick Start for New Contributors
+
+1. **Fork & Clone**: Fork the repository on GitHub and clone it to your local machine
+2. **Setup Environment**: Use either nix or Python (see development sections below)
+3. **Make Changes**: Edit or add markdown files in the `docs/` directory
+4. **Preview**: Run `mkdocs serve` to preview your changes locally at `http://localhost:8000`
+5. **Submit**: Create a pull request with your changes
+
 ## Development
 
 ### Using nix
