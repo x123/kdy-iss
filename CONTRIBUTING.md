@@ -4,7 +4,7 @@ Thank you for your interest in contributing to the KDY International Sailing
 School documentation! This guide will help you get started with making
 contributions.
 
-## Getting Started
+## Quick Start for New Contributors
 
 1. **Fork the Repository**: Start by forking the repository to your own GitHub
    account.
@@ -12,7 +12,10 @@ contributions.
 3. **Set Up Development Environment**: Set up your development environment
    using one of the following methods:
    - **Using Nix** (recommended): `nix develop .`
-   - **Using Python**: Install `mkdocs` and `mkdocs-material`
+   - **Using Python**: Install `mkdocs`, `mkdocs-material`, `markdownlint`, and `typos`.
+4. **Make Changes**: Edit or add markdown files in the `docs/` directory
+5. **Preview**: Run `mkdocs serve` to preview your changes locally at `http://localhost:8000`
+6. **Submit**: Create a pull request with your changes
 
 ## Making Changes
 
@@ -74,6 +77,13 @@ Run these checks before submitting your contribution:
    ```
 
 3. **Link Checking** - Make sure all links work properly in your local preview.
+
+If you are using Nix, you can run all the pre-commit hook checks (markdown
+linting, spell checking, etc) with:
+
+```bash
+nix flake check
+```
 
 ## Submitting Your Contribution
 
