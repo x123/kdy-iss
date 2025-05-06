@@ -18,7 +18,7 @@ jobs:
           git config user.name '${{github.actor}}'
           git config user.email '${{github.actor}}'@users.noreply.github.com
       - uses: DeterminateSystems/nix-installer-action@main 
-      - uses: DeterminateSystems/magic-nix-cache-action@main 
+      - uses: DeterminateSystems/flakehub-cache-action@main 
       # - uses: rrbutani/use-nix-shell-action@v1
       #   with:
       #     devShell: .#default # this is the default
