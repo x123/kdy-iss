@@ -12,6 +12,6 @@ get around.
 # Contributing
 
 Contributions to these documents are welcome and entirely volunteer-driven.
-Please submit an [Issue](https://github.com/x123/kdy-iss/issues) or [Pull
-Request](https://github.com/x123/kdy-iss/pulls) in GitHub or contact an
-instructor.
+Please check the Contributing section of the
+[README](https://github.com/x123/kdy-iss?tab=readme-ov-file#contributing) for more
+information on how to contribute.
