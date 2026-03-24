@@ -44,16 +44,16 @@ sailing conditions:
 6. Competency in reefing and heaving to.
 7. Use of compass and compass steering.
 8. Practical understanding of KDY safety procedures, collision regulations
-   (IRPCS), and Sail Safety guidance.
+   (COLREGS), including a mastery of give way & stand on vessels (power, sail,
+   other categories and rules in the collision regulations), and Sail Safety
+   guidance.
 9. Successful man overboard (MOB) manoeuvre and recovery drill (SPHERES).
 10. Anchoring and securing the boat at sea.
 11. Picking up a mooring and stopping at buoys.
-12. Mastery of give way & stand on vessels (power, sail, other categories and
-    rules in the collision regulations)
-13. Familiar with safety bag contents.
-14. Knowledge of sailing rules for use of KDY club boats, including log books,
+12. Familiar with safety bag contents.
+13. Knowledge of sailing rules for use of KDY club boats, including log books,
     booking system use, and incident reporting.
-15. Knowledge of hypothermia, secondary drowning, CPR, concussion, and shock.
+14. Knowledge of hypothermia, secondary drowning, CPR, concussion, and shock.
 
 Students should be able to do the following maintenance tasks:
 
