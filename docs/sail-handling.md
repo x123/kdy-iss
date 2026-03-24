@@ -69,19 +69,7 @@
     be **absolutely certain** to remove the reefing tidy lines prior to shaking out
     the reef and raising the mainsail. Failure to do so will rip the mainsail.
 
-### Reefing Pennant Variation 1 - Fixed Eye
-
-1. Open the reefing pennant jammer
-2. Haul sufficient slack in by pulling on the reefing pennant at the end of the
-   boom
-3. Remove the stopper knot in the reefing pennant
-4. Run the reefing pennant from the boom end through the reefing cringle at the
-   leech of the mainsail
-5. Continue down and through the small metal eye on the underside of the boom
-   below the reefing cringle
-6. Secure with a fixed bowline.
-
-### Reefing Pennant Variation 2 - Running Bowline
+### Reefing Pennant - Running Bowline
 
 1. Open the reefing pennant jammer
 2. Haul sufficient slack in by pulling on the reefing pennant at the end of the
