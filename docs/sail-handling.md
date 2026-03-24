@@ -84,6 +84,12 @@
 *Below: A diagram illustrating Reefing Pennant Variation 2*
 ![Reefing Pennant Variation 2 diagram](img/reefing_pennant_diagram.png)
 
+!!! Tip
+    The wrong way in the image above is wrong because during tightening the
+    running bowline will apply a lateral load to the line and twist the foot of
+    the sail by pulling it sideways. The correct version will apply the load
+    vertically, pulling the foot of the sail down and aft.
+
 ## Shaking out a reef
 
 1. Remove any sail ties or elastic ties used to tidy the foot of the mainsail
