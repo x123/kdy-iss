@@ -1,6 +1,6 @@
-* [ ] Moor the boat with 2 lines aft, 2 fore and 1 spring. The tension in the
-      mooring lines should allow for changes in water height and not allow the
-      boats to touch the quayside.
+* [ ] Moor the boat with 2 lines aft and 2 fore. The tension in the mooring
+      lines should allow for changes in water height and not allow the boats to
+      touch the quayside.
 * [ ] Hang one fender from the port winch and hang one fender from the
       starboard winch or the stays on the starboard side. Do not tie fenders to
       grab rails.
