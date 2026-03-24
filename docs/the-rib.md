@@ -20,15 +20,14 @@ general specifications commonly found in these boats:
 
 ## Licensing Requirements in Denmark
 
-To operate a RIB in Denmark, the following licenses may be required
-depending on the size and engine power of the boat:
+To operate a RIB in Denmark, the following licenses are required depending on
+the size and engine power of the boat:
 
 - **Speedboat License (Speedbådskørekort):** Required for operating boats
 with an engine power exceeding 25 HP or capable of speeds over 15 knots.
-- **Certificate of Competency (Duelighedsbevis):** Recommended for general
-boating and required for certain larger vessels or professional use.
 - **VHF Radio Certificate:** Required if the RIB is equipped with a VHF
 radio for communication.
 
 It is important to check local regulations and ensure compliance with Danish
 Maritime Authority (Søfartsstyrelsen) requirements before operating a RIB.
+Foreign licenses are not valid on Danish boats.
