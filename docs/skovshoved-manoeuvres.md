@@ -48,11 +48,12 @@
 - Fix pole moorings on mast.
 - Beware that jib or main sheets don’t catch poles.
 - Hoist mainsail.
+- Hoist headsail.
 - Push the boat out with enough power to get a few meters clear of the box.
 
 ![Hoisting sails at a pole - Skovshoved Havn (Easterly Winds) 3](img/going-out-pole-easterly-3.png)
 
-- Trim the main and bear away
+- Trim the main and and headsail and bear away.
 - Hoist headsail and tack your way out.
 
 ![Hoisting sails at a pole - Skovshoved Havn (Easterly Winds) 4](img/going-out-pole-easterly-4.png)
@@ -90,6 +91,6 @@
 - Outside harbour: run through halyards, have sail ties ready for main,
   dedicate crew to mast, halyards and sheets, inform crew about manoeuvre
 - In the large basin head up and drop the main when pointing at the wind
-- Bear away and keep headsail trimmed
+
 - Drop the headsail with just enough speed remaining to enter the box. Take
   into account the the wind will push you even without sails
