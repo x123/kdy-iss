@@ -28,10 +28,13 @@ Sail training is postponed or replaced with shore training in the event of:
 
 # Neighboring harbour mooring places
 
-- Hellerup
-- Tårbæk
-- Vedbæk
 - Rungsted
+- Vedbæk
+- Tårbæk
+- Hellerup
+- Tuborg
+- Svanemøllehavnen
+- Kalbrænderihavnen
 
 # KDY Fair Weather Skippers
 
