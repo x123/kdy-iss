@@ -56,7 +56,7 @@
 7. Close the jammer and tighten the halyard using the cockpit winch. Watch the
    luff of the sail to ensure correct tension and that the sail is set
    correctly.
-8. Tighten the vang, tension the new outhaul (using the reefing pennant), and
+8. Tension the new outhaul (using the reefing pennant), tighten the vang, and
    tidy the remainder of the halyard and stow it inside.
 9. Tidy the foot of the sail using the elastic sail ties. If the mainsail is
    loose-footed, tie the foot of the sail through the reef points to itself. If
