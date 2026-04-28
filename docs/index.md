@@ -9,6 +9,11 @@ Use the navigation menu on the left, the :material-menu: icon at the top left
 on mobile, and the navigation links at the bottom of the page in the footer to
 get around.
 
+# Important Information on the 2026 Season
+
+Please check [2026 Sailing Season](seasons/2026.md) for important information
+on the 2026 sailing season.
+
 # Contributing
 
 Contributions to these documents are welcome and entirely volunteer-driven.
