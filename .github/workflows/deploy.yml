@@ -1,5 +1,6 @@
 name: "Deploy KDY Docs"
 on:
+  workflow_dispatch:
   workflow_run:
     workflows: ["Docs Check"]
     types: [completed]
