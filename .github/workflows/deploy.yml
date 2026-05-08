@@ -9,6 +9,8 @@ on:
       - main
 permissions:
   actions: write
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 jobs:
   deploy-kdy-docs:
     permissions:
