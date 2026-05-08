@@ -11,7 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: DeterminateSystems/nix-installer-action@main 
-      - uses: DeterminateSystems/flakehub-cache-action@main 
+      - uses: nixbuild/nix-quick-install-action@v30 # allowed in GitHub
+      - name: Restore and save Nix store
+        uses: nix-community/cache-nix-action@v7 # allowed in GitHub
+        with:
+          primary-key: nix-${{ runner.os }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
+          restore-prefixes-first-match: nix-${{ runner.os }}-
       - name: Docs linters check
         run: nix -L flake check 

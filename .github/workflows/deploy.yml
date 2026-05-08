@@ -17,8 +17,12 @@ jobs:
         run: |
           git config user.name '${{github.actor}}'
           git config user.email '${{github.actor}}'@users.noreply.github.com
-      - uses: DeterminateSystems/nix-installer-action@main 
-      - uses: DeterminateSystems/flakehub-cache-action@main 
+      - uses: nixbuild/nix-quick-install-action@v30
+      - name: Restore and save Nix store
+        uses: nix-community/cache-nix-action@v7
+        with:
+          primary-key: nix-${{ runner.os }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
+          restore-prefixes-first-match: nix-${{ runner.os }}-
       # - uses: rrbutani/use-nix-shell-action@v1
       #   with:
       #     devShell: .#default # this is the default
