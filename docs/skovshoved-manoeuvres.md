@@ -53,8 +53,7 @@
 
 ![Hoisting sails at a pole - Skovshoved Havn (Easterly Winds) 3](img/going-out-pole-easterly-3.png)
 
-- Trim the main and and headsail and bear away.
-- Hoist headsail and tack your way out.
+- Tack your way out.
 
 ![Hoisting sails at a pole - Skovshoved Havn (Easterly Winds) 4](img/going-out-pole-easterly-4.png)
 
