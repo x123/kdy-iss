@@ -54,9 +54,10 @@ overboard).
     Dual-watch means the radio will monitor the channel selected (e.g., P2),
     but also constantly check VHF CH16 in the background (thus monitoring both
     channels simultaneously). As VHF CH16 is used for safety of navigation,
-    urgency, distress, and general initial calling it's important to keep watch on
-    this channel at all times. Tri-watch will monitor the selected channel
-    (e.g., P2), VHF CH16, and one other channel based on the radio configuration.
+      urgency, distress, and general initial calling, it is important to keep
+      watch on this channel at all times. Tri-watch will monitor the selected
+      channel (e.g., P2), VHF CH16, and one other channel based on the radio
+      configuration.
 
     Using the PTT button to transmit on the selected channel (e.g., P2) will
     disable Dual-watch or Tri-watch. Once you are done communicating you should

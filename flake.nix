@@ -58,6 +58,7 @@
             enable = true;
             settings = {
               ignored-words = [
+                "Havn"
                 "MIPDANIO"
               ];
               locale = "en";

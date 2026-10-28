@@ -27,7 +27,7 @@ in parallel.
     * [ ] First mate
     * [ ] MOB and Recovery
     * [ ] VHF radio use
-    * [ ] Personal Floatation Devices
+    * [ ] Personal Flotation Devices
     * [ ] Other safety equipment
     * [ ] Using winches
     * [ ] Moving about the boat
