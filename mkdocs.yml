@@ -54,7 +54,7 @@ nav:
   - 'Home': index.md
   - 'Getting Started':
     - 'Glossary': glossary.md
-    - 'Seasons':
+    - 'Past Seasons':
       - '2026 Sailing Season': seasons/2026.md
   - 'Skippers':
     - 'Information for Skippers': skipper-info.md

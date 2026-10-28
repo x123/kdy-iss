@@ -42,7 +42,7 @@ remember the steps.
   assess the situation and act accordingly.
 - E - Equipment thrown (Danbuoy, ring, lifeline) - Throw the floating
   horseshoe lifering to the casualty, even if they have a lifejacket. It will
-  serve as a datum, a method of floatation, and may assist with hauling the
+  serve as a datum, a method of flotation, and may assist with hauling the
   casualty onboard.
 - R - Radio (& ropework) - The skipper will use the VHF or delegate the crew to
   use VHF to inform the other KDY boats or indeed to call for assistance on VHF
@@ -69,9 +69,9 @@ alongside the casualty to recover them and the crew will recover the casualty.
     grave and imminent danger and requires immediate assistance"*.
 
     __A man overboard at sea in anything but the calmest conditions or warmest
-    waters is *almost always* at least an urgency (to notify nearby stations of the
-    situation), and if a swift and safe recovery is in doubt, possibly a distress
-    situation.__
+    waters is *almost always* at least an urgency (to notify nearby stations
+    of the situation), and if a swift and safe recovery is in doubt, possibly
+    a distress situation.__
 
 # Cold Water Survival Times
 
@@ -87,14 +87,14 @@ times.
     consciousness.
 
 | Water Temperature Degrees C | Water Temperature Degrees F | Loss of Dexterity | Exhaustion or Unconsciousness | Expected Time of Survival |
-|-----------------------------|-----------------------------|-------------------|-------------------------------|---------------------------|
+| ----------------------------- | ----------------------------- | ------------------- | ------------------------------- | --------------------------- |
 | 0.3 | 32.5 | Under 2 minutes | Under 15 minutes | Under 15 to 45 minutes |
 | 0.3 to 4.5 | 32.5 to 40 | Under 3 minutes | 15 to 30 minutes | 30 to 90 minutes |
 | 4.5 to 10 | 40 to 50 | Under 5 minutes | 30 to 60 minutes | 1 to 3 hours |
 | 10 to 15.5 | 50 to 60 | 10 to 15 minutes | 1 to 2 hours | 1 to 6 hours |
 | 15.5 to 21 | 60 to 70 | 30 to 40 minutes | 2 to 7 hours | 2 to 40 hours |
 | 21 to 26.5 | 70 - 80 | 1 to 2 hours | 2 to 12 hours | 3 hours to indefinite |
-| Over 26.5 | Over 80 | 2 to 12 hours | Indefinnite | Indefinite |
+| Over 26.5 | Over 80 | 2 to 12 hours | Indefinite | Indefinite |
 
 # The boom
 
